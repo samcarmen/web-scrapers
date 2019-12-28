@@ -1,44 +1,134 @@
 [
   {
-    "IMAGE": [
-      "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53063711_92_B.jpg"
-    ],
-    "PRODUCT_REFERENCE": "REF. 53063711-LUNA-LH ",
+    "IMAGE": null,
+    "PRODUCT_REFERENCE": null,
     "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/men/sweatshirts-without-hood/flecked-flowy-sweatshirt_53063711.html?c=92&n=1&s=prendas_he.familia;612",
-    "DESCRIPTION": [
-      " Smart collection",
-      "Flowy fabric",
-      "Speckled jacquard",
-      "Notched round neck",
-      "Long sleeve",
-      "Soft finish",
-      "Elastic finish."
-    ],
-    "MATERIAL": [
-      "Composition: 65%  polyester,35%  viscose"
-    ],
+    "URL": "https://shop.mango.com/my/women/weddings-parties_d74897915",
+    "DESCRIPTION": null,
+    "MATERIAL": null,
     "ORIGINAL_PRICE": {
-      "PRICE": "169",
-      "CURRENCY": "RM"
+      "PRICE": [],
+      "CURRENCY": []
     },
     "SALES_PRICE": {
-      "PRICE": "109",
-      "CURRENCY": "RM"
+      "PRICE": [],
+      "CURRENCY": []
     },
-    "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf",
-      "do not bleach",
-      "ironing max 110\u00b0c / 230\u00baf",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
+    "WASHING_INSTRUCTION": [],
     "CATEGORY": [
-      "Men",
-      "Clothing",
-      "Sweatshirts"
+      "Men"
     ],
-    "COLOUR": "Grey",
-    "NAME": "Flecked flowy sweatshirt"
+    "COLOUR": null,
+    "NAME": null
+  },
+  {
+    "IMAGE": null,
+    "PRODUCT_REFERENCE": null,
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/office-looks_d17486590",
+    "DESCRIPTION": null,
+    "MATERIAL": null,
+    "ORIGINAL_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "SALES_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men"
+    ],
+    "COLOUR": null,
+    "NAME": null
+  },
+  {
+    "IMAGE": null,
+    "PRODUCT_REFERENCE": null,
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/total-look_d10661832",
+    "DESCRIPTION": null,
+    "MATERIAL": null,
+    "ORIGINAL_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "SALES_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men"
+    ],
+    "COLOUR": null,
+    "NAME": null
+  },
+  {
+    "IMAGE": null,
+    "PRODUCT_REFERENCE": null,
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/leather-and-more_d19920533",
+    "DESCRIPTION": null,
+    "MATERIAL": null,
+    "ORIGINAL_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "SALES_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men"
+    ],
+    "COLOUR": null,
+    "NAME": null
+  },
+  {
+    "IMAGE": null,
+    "PRODUCT_REFERENCE": null,
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/maternity-wear_d23765766",
+    "DESCRIPTION": null,
+    "MATERIAL": null,
+    "ORIGINAL_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "SALES_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men"
+    ],
+    "COLOUR": null,
+    "NAME": null
+  },
+  {
+    "IMAGE": null,
+    "PRODUCT_REFERENCE": null,
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/clothing_c48777000",
+    "DESCRIPTION": null,
+    "MATERIAL": null,
+    "ORIGINAL_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "SALES_PRICE": {
+      "PRICE": [],
+      "CURRENCY": []
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men"
+    ],
+    "COLOUR": null,
+    "NAME": null
   }
 ]

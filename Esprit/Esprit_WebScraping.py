@@ -26,7 +26,7 @@ def automate_scrolling():
     options.add_argument("--window-size=1920x1080")
     options.add_argument("--headless")
     driver = webdriver.Chrome(chrome_options=options,
-                              executable_path=r"C:\Users\user\Downloads\chromedriver_win32\chromedriver.exe")
+                              executable_path=r"C:\Users\Carmen\Downloads\chromedriver_win32\chromedriver.exe")
     return driver
 
 

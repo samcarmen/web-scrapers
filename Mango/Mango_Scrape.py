@@ -16,7 +16,7 @@ def initialise_web_driver():
     options.add_argument("User-Agent:'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0'")
     options.add_argument("--window-size=1920x1080")
     driver = webdriver.Chrome(chrome_options=options,
-                              executable_path=r"C:\Users\user\Downloads\chromedriver_win32\chromedriver.exe")
+                              executable_path=r"C:\Users\Carmen\Downloads\chromedriver_win32\chromedriver.exe")
 
     return driver
 
@@ -114,7 +114,7 @@ def get_name(soup):
         name = soup.find(class_="product-name").text
         return name
     except (TypeError, AttributeError, IndexError):
-        print("*Error retrieving name*")
+        print("*Error retrieving name")
 
 
 def get_price(soup):
@@ -144,7 +144,7 @@ def get_price(soup):
         return price_list
 
     except (TypeError, AttributeError, IndexError):
-        print("Error retrieving price")
+        print("*Error retrieving price")
 
 
 def get_category(soup):
@@ -152,8 +152,8 @@ def get_category(soup):
         container = soup.findAll(class_="breadcrumbs-link")
         span = [each.findAll('span') for each in container]
         category = [each[0].text for each in span]
-        if "Men" not in category:
-            category.insert(0, "Men")
+        if "Women" not in category:
+            category.insert(0, "Women")
         return category
     except (TypeError, AttributeError, IndexError):
         print("*Error retrieving category*")
@@ -164,7 +164,7 @@ def get_colour(soup):
         colour = soup.find(class_="colors-info-name").text
         return colour
     except (TypeError, AttributeError, IndexError):
-        print("*Error retrieving colour*")
+        print("*Error retrieving colour")
 
 
 def get_description(soup):
@@ -173,7 +173,7 @@ def get_description(soup):
         description = container.split('. ')
         return description
     except (TypeError, AttributeError, IndexError):
-        print("*Error retrieving description*")
+        print("*Error retrieving description")
 
 
 def get_material(soup):
@@ -184,17 +184,19 @@ def get_material(soup):
         # composition = [each.split(':') for each in composition]
         return composition
     except (TypeError, AttributeError, IndexError):
-        print("*Error retrieving material*")
+        print("*Error retrieving material")
 
 
 def get_washing_instruction(soup):
     try:
         container = soup.find(class_="product-info-icons")
+        if container is None:
+            return []
         instruction = [each.get('alt') for each in container]
         instruction = [each.lower() for each in instruction]
         return instruction
     except (TypeError, AttributeError, IndexError):
-        print("*Error retrieving washing instruction*")
+        print("*Error retrieving washing instruction")
 
 
 def get_image(soup):
@@ -204,7 +206,7 @@ def get_image(soup):
         container = soup.find('img', alt=name)
         image = container.get('src')
         image_url = re.findall(r'[\S]+.jpg', image)
-        return image_url
+        return image_url[0]
 
     except (TypeError, AttributeError, IndexError):
         try:
@@ -213,7 +215,7 @@ def get_image(soup):
             image_url = re.findall(r'[\S]+.jpg', image)
             return image_url
         except (TypeError, AttributeError, IndexError):
-            print("Error retrieving image")
+            print("*Error retrieving image")
 
 
 def get_product_reference(soup):
@@ -221,13 +223,14 @@ def get_product_reference(soup):
         ref = soup.find(class_="product-reference").text
         return ref
     except (TypeError, AttributeError, IndexError):
-        print("*Error retrieving product reference*")
+        print("*Error retrieving product reference")
 
 
 def scrape_all(url_list):
     output_list = []
-    driver = initialise_web_driver()
+
     for i in range(len(url_list)):
+        driver = initialise_web_driver()
         url = url_list[i]
         print("Now processing: ", i + 1, url)
 
@@ -275,8 +278,6 @@ def scrape_all(url_list):
         }
         output_list.append(output)
         driver.close()
-        if i == 350:
-            break
 
     return output_list
 
@@ -290,30 +291,28 @@ if __name__ == "__main__":
     # women_soup = make_soup(women_driver, women_url)
     #
     # all_women_category = get_all_url(women_soup)
-    # all_women_link = scroll_each_url(all_women_category)
-    #
-    # print("before removing: ", len(all_women_link))
-    #
-    # already_in_list = []
-    # with open("Mango_Data.json", "r") as file:
-    #     data = json.load(file)
-    #
-    # for each in data:
-    #     already_in_list.append(each["URL"])
-    #
-    # print("len of already_in_list", len(already_in_list))
-    #
-    # for each in all_women_link:
-    #     if each in already_in_list:
-    #         all_women_link.remove(each)
-    #
-    # file = open("List_of_Links.txt", "w")
-    # file.write(str(all_women_link))
-    # file.close()
-    #
-    # print("after remove: ", len(all_women_link))
+    with open("links-women.txt") as file:
+        links = [link.strip('\n') for link in file]
 
-    final_output = scrape_all( ['https://shop.mango.com/my/men/sweatshirts-without-hood/flecked-flowy-sweatshirt_53063711.html?c=92&n=1&s=prendas_he.familia;612'])
+    all_women_link = scroll_each_url(links)
+
+    # Remove the URL that has already been scraped to avoid duplication
+    with open("Mango_Data.json", "r") as file:
+        data = json.load(file)
+
+    already_in_list = []
+    for each in data:
+        already_in_list.append(each["URL"])
+
+    print("len of already_in_list", len(already_in_list))
+
+    print("before remove: ", len(all_women_link))
+    for each in links:
+        if each in already_in_list:
+            all_women_link.remove(each)
+    print("after remove: ", len(all_women_link))
+
+    final_output = scrape_all(all_women_link)
 
     with open('raw_scrape_mango.json', 'w') as outfile:
         json.dump(final_output, outfile)
@@ -334,7 +333,7 @@ if __name__ == "__main__":
 
     notification.notify(
         title='Meow~',
-        message='The scraping is done!',
-        app_icon=None,  # e.g. 'C:\\icon_32x32.ico'
-        timeout=10,  # seconds
+        message='Scraping All Done Master!',
+        app_icon=r'C:\Users\Carmen\Downloads\cat.ico',
+        timeout=20,  # seconds
     )

@@ -23,3 +23,44 @@ Without duplicate:  1590
 5.48 PM
 With duplicate:  2584
 Without duplicate:  1909
+
+28.12.19
+4.35 PM
+With duplicate:  2634
+Without duplicate:  1909
+
+5.56 PM
+With duplicate:  2933
+Without duplicate:  2016
+
+7.18 PM
+With duplicate:  2016
+Without duplicate:  2016
+
+len of already_in_list 2016
+before remove:  1974
+after remove:  1747
+
+29.12.19
+# In temp data for men
+3.06 AM
+With duplicate:  1974
+Without duplicate:  1366
+
+With duplicate:  1967
+Without duplicate:  1365
+
+3.10 AM
+With duplicate:  4141
+Without duplicate:  2958
+
+3.46 AM
+all_url:  9030
+set_url:  1195
+len of already_in_list 3470
+before remove:  1195
+after remove:  1195
+
+NOTE: next without duplicate should have 1195 more items because I already filtered.
+
+
