@@ -63,4 +63,27 @@ after remove:  1195
 
 NOTE: next without duplicate should have 1195 more items because I already filtered.
 
+3.24 PM
+With duplicate:  4665
+Without duplicate:  4520
 
+3.41 PM
+all_url:  48400
+set_url:  3602
+len of already_in_list 4665
+before remove:  3602
+after remove:  3602
+
+4.07 PM
+all_url:  48168
+set_url:  3434
+len of already_in_list 4665
+before remove:  3434
+after remove:  2318
+
+5.02 PM
+all_url:  48334
+set_url:  3489
+len of already_in_list 4665
+before remove:  3489
+after remove:  2356

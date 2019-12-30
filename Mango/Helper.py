@@ -1,4 +1,5 @@
 import json
+import re
 
 from plyer import notification
 
@@ -60,4 +61,18 @@ def find_unsuccessful_scrape():
 
 
 # find_unsuccessful_scrape()
-process_duplicate()
+# process_duplicate()
+
+def find_duplicate_url():
+    with open("Mango_Data.json", "r") as file:
+        data = json.load(file)
+
+    already_in_list = []
+    for each in data:
+        already_in_list.append(each["URL"])
+
+    for each in already_in_list:
+        each = re.findall(r'[\S]+.html', each)[0]
+
+    print(already_in_list)
+

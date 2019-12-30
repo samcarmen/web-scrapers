@@ -282,40 +282,9 @@ def scrape_all(url_list):
     return output_list
 
 
-if __name__ == "__main__":
-    start = time.time()
-
-    # women_url = "https://shop.mango.com/my/men/coats_c32859776"
-    #
-    # women_driver = initialise_web_driver()
-    # women_soup = make_soup(women_driver, women_url)
-    #
-    # all_women_category = get_all_url(women_soup)
-    with open("links-women.txt") as file:
-        links = [link.strip('\n') for link in file]
-
-    all_women_link = scroll_each_url(links)
-
-    # Remove the URL that has already been scraped to avoid duplication
-    with open("Mango_Data.json", "r") as file:
-        data = json.load(file)
-
-    already_in_list = []
-    for each in data:
-        already_in_list.append(each["URL"])
-
-    print("len of already_in_list", len(already_in_list))
-
-    print("before remove: ", len(all_women_link))
-    for each in links:
-        if each in already_in_list:
-            all_women_link.remove(each)
-    print("after remove: ", len(all_women_link))
-
-    final_output = scrape_all(all_women_link)
-
+def write_to_file(output):
     with open('raw_scrape_mango.json', 'w') as outfile:
-        json.dump(final_output, outfile)
+        json.dump(output, outfile)
 
     with open("raw_scrape_mango.json", 'r') as json_file:
         parsed = json.load(json_file)
@@ -326,6 +295,46 @@ if __name__ == "__main__":
     f = open("Mango_Data_Temp.json", "w")
     f.write(pretty_output)
     f.close()
+
+
+if __name__ == "__main__":
+    start = time.time()
+
+    # women_url = "https://shop.mango.com/my/men/coats_c32859776"
+    #
+    # women_driver = initialise_web_driver()
+    # women_soup = make_soup(women_driver, women_url)
+    #
+    # all_women_category = get_all_url(women_soup)
+
+    with open("links-women.txt") as file:
+        links = [link.strip('\n') for link in file]
+
+    all_women_link = scroll_each_url(links)
+
+    # Remove the URL that has already been scraped to avoid duplication
+    with open("Mango_Data.json", "r") as file:
+        data = json.load(file)
+
+    temp_list = []
+    for each in data:
+        temp_list.append(each["URL"])
+
+    already_in_list = []
+    for each in temp_list:
+        each = re.findall(r'[\S]+.html', each)[0]
+        already_in_list.append(each)
+
+    print("len of already_in_list", len(already_in_list))
+
+    print("before remove: ", len(all_women_link))
+    for each in all_women_link:
+        if re.findall(r'[\S]+.html', each)[0] in already_in_list:
+            all_women_link.remove(each)
+    print("after remove: ", len(all_women_link))
+
+    final_output = scrape_all(all_women_link)
+    write_to_file(final_output)
 
     end = time.time()
     time_taken = (end - start) / 60  # in minute
