@@ -1,2 +1,9 @@
 [1226/124316.293:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
 [1227/153901.808:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1230/104911.751:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1230/110051.939:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1230/112139.065:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1230/112240.875:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1230/113321.773:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1230/113506.813:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1230/121828.240:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0

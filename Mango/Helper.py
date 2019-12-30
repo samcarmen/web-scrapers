@@ -60,9 +60,6 @@ def find_unsuccessful_scrape():
     print(len(not_complete_list), not_complete_list)
 
 
-# find_unsuccessful_scrape()
-# process_duplicate()
-
 def find_duplicate_url():
     with open("Mango_Data.json", "r") as file:
         data = json.load(file)
@@ -75,4 +72,9 @@ def find_duplicate_url():
         each = re.findall(r'[\S]+.html', each)[0]
 
     print(already_in_list)
+
+
+# find_unsuccessful_scrape()
+# process_duplicate()
+
 
