@@ -62,12 +62,12 @@ def scroll_each_url(url_list):
     :return:
     """
     all_url = []
+    driver = initialise_web_driver()
 
-    for i in range(len(url_list)):
+    for i in range(len(url_list)-1):
         print("Processing url: ", i)
         url = url_list[i]
 
-        driver = initialise_web_driver()
         driver.get(url)  # open a new page
 
         try:
@@ -100,7 +100,7 @@ def scroll_each_url(url_list):
             # Calculate new scroll height and compare with last scroll height
             new_height = driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
-                driver.close()
+                url = url_list[i+1]
                 break
             last_height = new_height
 
@@ -234,6 +234,7 @@ def scrape_all(url_list):
         print("Now processing: ", i + 1, url)
 
         soup = make_soup(driver, url)
+        time.sleep(2)
 
         image = get_image(soup)
         ref = get_product_reference(soup)
