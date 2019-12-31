@@ -1,691 +1,79 @@
-
+[
   {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53100609_BL_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53100609-ALLEGRA-LA ",
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67020045_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67020045-DAMIAN6-LO ",
     "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/pocketed-denim-jacket_53100609.html?c=BL&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Denim style cotton fabric",
-      "Faded wash",
-      "Classic collar",
-      "Long buttoned sleeve",
-      "Decorative pockets on the front",
-      "Two side welt pockets",
-      "Button fastening on the front section."
-    ],
-    "MATERIAL": [
-      "Composition: 99%  cotton,1%  elastane"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "129",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "69",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
-      "do not bleach",
-      "ironing max 110\u00b0c / 230\u00baf",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Bleach Blue",
-    "NAME": "Pocketed denim jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67090531_99_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 67090531-ANITA-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/metallic-thread-cardigan_67090531.html?c=99&n=1&s=prendas_nina.familia;203",
+    "URL": "https://shop.mango.com/my/boys/shirts-formal/cotton-shirt_67020045.html?c=01&n=1&s=prendas_nino.familia;253",
     "DESCRIPTION": [
       " Cotton fabric",
-      "Fabric with metallic thread",
-      "Short design",
-      "Rounded neck",
-      "Long sleeve",
-      "Patch pocket",
-      "Hook fastening on the front section."
-    ],
-    "MATERIAL": [
-      "Composition: 90%  cotton,10%  polyester"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "129",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "129",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
-      "do not bleach",
-      "ironing max 110\u00b0c / 230\u00baf",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Black",
-    "NAME": "Metallic thread cardigan"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53070798_TM_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53070798-ALLEGRA-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/pocketed-denim-jacket_53070798.html?c=TM&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Denim style cotton fabric",
-      "Classic collar",
-      "Long buttoned sleeve",
-      "Decorative pockets on the front",
-      "Two side welt pockets",
-      "Button fastening on the front section."
-    ],
-    "MATERIAL": [
-      "Composition: 99%  cotton,1%  elastane"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "129",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "99",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
-      "do not bleach",
-      "ironing max 110\u00b0c / 230\u00baf",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Medium Blue",
-    "NAME": "Pocketed denim jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53073712_99_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53073712-ETOMPI-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/faux-fur-lining-biker-jacket_53073712.html?c=99&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Short design",
-      "Biker design",
-      "Lapel with notch",
-      "Long sleeve",
-      "Two zip pockets on the front ",
-      "Faux-fur lining",
-      "Side zip fastening."
-    ],
-    "MATERIAL": [
-      "Composition: 88%  polyester,7%  cotton,5%  viscose",
-      " Lining: 100%  polyester",
-      " Coating: 100%  polyurethane"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "229",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "149",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "hand washing max 30\u00b0c / 85\u00baf",
-      "do not bleach",
-      "do not iron",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Black",
-    "NAME": "Faux-fur lining biker jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53020791_TN_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53020791-BLACKY-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/frayed-details-denim-jacket_53020791.html?c=TN&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Short design",
-      "Denim style cotton fabric",
       "Classic collar",
       "Long sleeve with buttoned cuffs",
-      "Frayed details",
-      "Two side pockets",
       "Button fastening on the front section",
-      "This garment is also available in Baby Girl\u00b4s collection.."
+      "Contrast button fastening",
+      "Patch pocket on the side."
     ],
     "MATERIAL": [
       "Composition: 100%  cotton"
     ],
     "ORIGINAL_PRICE": {
-      "PRICE": "149",
+      "PRICE": "75",
       "CURRENCY": "RM"
     },
     "SALES_PRICE": {
-      "PRICE": "99",
+      "PRICE": "75",
       "CURRENCY": "RM"
     },
     "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "machine washing max 30\u00b0c / 85\u00baf",
       "do not bleach",
       "ironing max 110\u00b0c / 230\u00baf",
       "do not dry clean",
       "do not tumble dry"
     ],
     "CATEGORY": [
-      "Girls",
+      "Boys",
       "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Black denim",
-    "NAME": "Frayed details denim jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53189079_TM_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53189079-NORMA-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/frills-denim-jacket_53189079.html?c=TM&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Long design",
-      "Denim style cotton fabric",
-      "Medium wash",
-      "Classic collar",
-      "Long buttoned sleeve",
-      "Two welt pockets on the front",
-      "Decorative frill detail",
-      "Button fastening on the front section",
-      "This garment is also available in Baby Girl\u00b4s collection.."
-    ],
-    "MATERIAL": [
-      "Composition: 94%  cotton,6%  polyester"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "169",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "99",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
-      "do not bleach",
-      "ironing max 110\u00b0c / 230\u00baf",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Medium Blue",
-    "NAME": "Frills denim jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53025729_15_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53025729-BOLITA-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/coats-coats/hooded-faux-fur-jacket_53025729.html?c=15&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Faux fur fabric",
-      "Short design",
-      "Inner lining",
-      "With hood",
-      "Zip fastening on the front section",
-      "Two side welt pockets",
-      "Long sleeve."
-    ],
-    "MATERIAL": [
-      "Composition: 100%  polyester",
-      " Lining: 100%  polyester"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "229",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "149",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "hand washing max 30\u00b0c / 85\u00baf",
-      "do not bleach",
-      "do not iron",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Mustard",
-    "NAME": "Hooded faux fur jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57098256_05_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 57098256-CAMELIA-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/fringed-knit-jacket_57098256.html?c=05&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Fabric with cotton",
-      "Short design",
-      "Fringe detail",
-      "Two patch pockets on the front",
-      "Rounded neck",
-      "Long sleeve",
-      "Hook fastening."
-    ],
-    "MATERIAL": [
-      "Composition: 80%  cotton,20%  polyester"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "129",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "99",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
-      "do not bleach",
-      "ironing max 110\u00b0c / 230\u00baf",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Ecru",
-    "NAME": "Fringed knit jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53070675_01_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53070675-TRAPI-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/transparent-water-repellent-jacket_53070675.html?c=01&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Waterproof fabric",
-      "Transparent design",
-      "Long sleeve",
-      "Hood",
-      "Two patch pockets on the front",
-      "Button fastening on the front section."
-    ],
-    "MATERIAL": [
-      "Composition: 100%  polyurethane"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "129",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "99",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "no washing",
-      "do not bleach",
-      "do not iron",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
+      "Shirts"
     ],
     "COLOUR": "White",
-    "NAME": "Transparent water-repellent jacket"
+    "NAME": "Cotton shirt"
   },
   {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53060988_74_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53060988-ADELA-LA ",
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57045918_02_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 57045918-GRIZZLE-LO ",
     "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/soft-fabric-jacket_53060988.html?c=74&n=1&s=prendas_nina.familia;203",
+    "URL": "https://shop.mango.com/my/boys/t-shirts-long-sleeve/bear-printed-t-shirt_57045918.html?c=02&n=1&s=prendas_nino.familia;254,255",
     "DESCRIPTION": [
-      " Midi design",
-      "Classic collar",
-      "Dropped shoulder seams",
-      "Button fastening on the front section",
-      "Two side welt pockets",
+      " Cotton fabric",
+      "Printed animal",
+      "Printed message",
+      "Rounded neck",
       "Long sleeve."
     ],
     "MATERIAL": [
-      "Composition: 85%  tencel \u2122/lyocell,15%  linen"
+      "Composition: 100%  cotton"
     ],
     "ORIGINAL_PRICE": {
-      "PRICE": "169",
+      "PRICE": "59",
       "CURRENCY": "RM"
     },
     "SALES_PRICE": {
-      "PRICE": "99",
+      "PRICE": "35",
       "CURRENCY": "RM"
     },
     "WASHING_INSTRUCTION": [
-      "hand washing max 30\u00b0c / 85\u00baf",
-      "do not bleach",
-      "ironing max 110\u00b0c / 230\u00baf",
-      "do not dry clean",
-      "tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Strawberry",
-    "NAME": "Soft fabric jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67042521_37_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 67042521-FLAP-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/pocket-waterproof-parka_67042521.html?c=37&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Waterproof fabric",
-      "Water-repellent",
-      "Midi design",
-      "With hood",
-      "Classic collar",
-      "Long sleeve with elastic cuffs",
-      "Elastic waist with ajustable drawstring",
-      "Two side pockets with one press stud fastening",
-      "Zip and press stud fastening."
-    ],
-    "MATERIAL": [
-      "Composition: 100%  polyamide",
-      " Lining: 65%  polyester,35%  cotton",
-      " Sleeve lining: 100%  polyester",
-      " Filling: 100%  polyester"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "199",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "199",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
-      "do not bleach",
-      "do not iron",
-      "do not dry clean",
-      "tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Khaki",
-    "NAME": "Pocket waterproof parka"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67060516_99_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 67060516-IRIS-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/velvet-blazer_67060516.html?c=99&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Velvet fabric",
-      "Short design",
-      "Lapel-collar",
-      "Long ruched sleeves",
-      "Two patch pockets on the front",
-      "Button fastening on the front section",
-      "This garment is also available in Women\u00b4s collection."
-    ],
-    "MATERIAL": [
-      "Composition: 95%  polyester,5%  elastane",
-      " Lining: 100%  polyester"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "169",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "169",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "hand washing max 30\u00b0c / 85\u00baf",
-      "do not bleach",
-      "do not iron",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Black",
-    "NAME": "Velvet blazer"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67168253_99_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 67168253-TIMBER-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/faux-fur-lining-biker-jacket_67168253.html?c=99&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Medium design",
-      "Lapel-collar",
-      "Notched lapel",
-      "Long sleeve",
-      "Faux fur cuffs",
-      "Faux-fur lining",
-      "Two zip pockets on the front ",
-      "Zip fastening on the front section."
-    ],
-    "MATERIAL": [
-      "Composition: 100%  polyester"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "269",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "269",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "hand washing max 30\u00b0c / 85\u00baf",
-      "do not bleach",
-      "do not iron",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Black",
-    "NAME": "Faux-fur lining biker jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67062886_TM_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 67062886-ALLEGRA-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/pocketed-denim-jacket_67062886.html?c=TM&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Denim style cotton fabric",
-      "Classic collar",
-      "Long buttoned sleeve",
-      "Decorative pockets on the front",
-      "Two side welt pockets",
-      "Button fastening on the front section."
-    ],
-    "MATERIAL": [
-      "Composition: 99%  cotton,1%  elastane"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "129",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "129",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "machine washing max 30\u00b0c / 85\u00baf",
       "do not bleach",
       "ironing max 110\u00b0c / 230\u00baf",
       "do not dry clean",
       "do not tumble dry"
     ],
     "CATEGORY": [
-      "Girls",
+      "Boys",
       "Clothing",
-      "Jackets"
+      "T-shirts"
     ],
-    "COLOUR": "Medium Blue",
-    "NAME": "Pocketed denim jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53060674_86_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53060674-NOVA-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/hooded-fluor-jacket_53060674.html?c=86&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Short design",
-      "Hood",
-      "Long sleeve with elastic cuffs",
-      "Inner lining",
-      "Two side pockets",
-      "Zip fastening on the front section."
-    ],
-    "MATERIAL": [
-      "Composition: 100%  polyester",
-      " Lining: 100%  polyester"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "99",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "69",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
-      "do not bleach",
-      "do not iron",
-      "do not dry clean",
-      "tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Neon Pink",
-    "NAME": "Hooded fluor jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53093727_99_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53093727-ESTHER5-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/leather-biker-jacket_53093727.html?c=99&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Short design",
-      "Biker design",
-      "100% Leather",
-      "Lapel-collar",
-      "Long sleeve",
-      "Two side pockets",
-      "Inner lining",
-      "Zip fastening."
-    ],
-    "MATERIAL": [
-      "Composition: 100%  sheep leather",
-      " Lining: 100%  polyester"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "399",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "299",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "no washing",
-      "do not bleach",
-      "do not iron",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Black",
-    "NAME": "Leather biker jacket"
-  },
-  {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53080692_15_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53080692-LEO-LA ",
-    "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/girls/jackets/leopard-water-repellent-jacket_53080692.html?c=15&n=1&s=prendas_nina.familia;203",
-    "DESCRIPTION": [
-      " Waterproof fabric",
-      "Leopard print",
-      "Hood",
-      "Long sleeve",
-      "Two side pockets",
-      "Press stud fastening on the front."
-    ],
-    "MATERIAL": [
-      "Composition: 100%  polyurethane"
-    ],
-    "ORIGINAL_PRICE": {
-      "PRICE": "129",
-      "CURRENCY": "RM"
-    },
-    "SALES_PRICE": {
-      "PRICE": "99",
-      "CURRENCY": "RM"
-    },
-    "WASHING_INSTRUCTION": [
-      "no washing",
-      "do not bleach",
-      "do not iron",
-      "do not dry clean",
-      "do not tumble dry"
-    ],
-    "CATEGORY": [
-      "Girls",
-      "Clothing",
-      "Jackets"
-    ],
-    "COLOUR": "Mustard",
-    "NAME": "Leopard water-repellent jacket "
+    "COLOUR": "Off White",
+    "NAME": "Bear printed t-shirt"
   }
+]

@@ -23,6 +23,7 @@ def initialise_web_driver():
 
 def make_soup(driver, url):
     driver.get(url)
+    time.sleep(0.7)
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, 'lxml')
 
@@ -35,21 +36,18 @@ def get_all_url(soup):
     :param soup:
     :return: a list of urls which comprised of each category in Women clothing and accessories
     """
-    clothing_container = soup.find('nav', {"aria-label": "Filter by Girls"})
+    clothing_container = soup.find('nav', {"aria-label": "Filter by Baby boys"})
     container = clothing_container.findAll('a')
     urls = [each.get('href') for each in container]
     urls = ["https://shop.mango.com" + each for each in urls]
     url_list = [url for url in urls]  # append the url to a new list
 
-    accessories_container = soup.find('nav', {"aria-label": "Filter by Accessories"})
-    container = accessories_container.findAll('a')
-    urls = [each.get('href') for each in container]
-    urls = ["https://shop.mango.com" + each for each in urls]
-    for url in urls:
-        url_list.append(url)
-
-    # add the left out ones into the list
-    # url_list.append("https://shop.mango.com/my/plus-size/clothing_c48777000")
+    # accessories_container = soup.find('nav', {"aria-label": "Filter by Accessories"})
+    # container = accessories_container.findAll('a')
+    # urls = [each.get('href') for each in container]
+    # urls = ["https://shop.mango.com" + each for each in urls]
+    # for url in urls:
+    #     url_list.append(url)
 
     return url_list
 
@@ -64,8 +62,8 @@ def scroll_each_url(url_list):
     all_url = []
     driver = initialise_web_driver()
 
-    for i in range(len(url_list)-1):
-        print("Processing url: ", i)
+    for i in range(len(url_list)):
+        print("Processing url", i+1)
         url = url_list[i]
 
         driver.get(url)  # open a new page
@@ -100,13 +98,13 @@ def scroll_each_url(url_list):
             # Calculate new scroll height and compare with last scroll height
             new_height = driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
-                url = url_list[i+1]
                 break
             last_height = new_height
 
     print("all_url: ", len(all_url))
     print("set_url: ", len(set(all_url)))
 
+    driver.close()
     all_url_list = [each for each in set(all_url)]
     return all_url_list
 
@@ -213,7 +211,7 @@ def get_image(soup):
             container = soup.find('img', class_="image-1 image-js")
             image = container.get('src')
             image_url = re.findall(r'[\S]+.jpg', image)
-            return image_url
+            return image_url[0]
         except (TypeError, AttributeError, IndexError):
             print("*Error retrieving image")
 
@@ -234,7 +232,6 @@ def scrape_all(url_list):
         print("Now processing: ", i + 1, url)
 
         soup = make_soup(driver, url)
-        time.sleep(2)
 
         image = get_image(soup)
         ref = get_product_reference(soup)
@@ -278,6 +275,7 @@ def scrape_all(url_list):
         }
         output_list.append(output)
 
+    driver.quit()
     return output_list
 
 
@@ -299,38 +297,34 @@ def write_to_file(output):
 if __name__ == "__main__":
     start = time.time()
 
-    women_url = "https://shop.mango.com/my/girls/coats_c10792813"
+    main_url = "https://shop.mango.com/my/baby-boys/coats_c26307252"
 
-    # women_driver = initialise_web_driver()
-    # women_soup = make_soup(women_driver, women_url)
-    #
-    all_women_category = ['https://shop.mango.com/my/girls/coats_c10792813', 'https://shop.mango.com/my/girls/coats-quilted-coats_c11610759', 'https://shop.mango.com/my/girls/coats-coats_c11277498', 'https://shop.mango.com/my/girls/coats-gilets_c16989719', 'https://shop.mango.com/my/girls/coats-faux-fur_c15758657', 'https://shop.mango.com/my/girls/jackets_c10281700', 'https://shop.mango.com/my/girls/dresses_c11805879', 'https://shop.mango.com/my/girls/jumpsuits_c56982220', 'https://shop.mango.com/my/girls/cardigans-and-sweaters_c19557162', 'https://shop.mango.com/my/girls/sweatshirts_c47703127', 'https://shop.mango.com/my/girls/shirts_c18370679', 'https://shop.mango.com/my/girls/t-shirts_c19045604', 'https://shop.mango.com/my/girls/trousers_c16674009', 'https://shop.mango.com/my/girls/leggings_c33314338', 'https://shop.mango.com/my/girls/jeans_c15188815', 'https://shop.mango.com/my/girls/skirts_c90317776', 'https://shop.mango.com/my/girls/underwear-and-pyjamas_c21080502', 'https://shop.mango.com/my/girls/shoes_c72445239', 'https://shop.mango.com/my/girls/scarves-and-hats_c19660561', 'https://shop.mango.com/my/girls/belts_c82604542', 'https://shop.mango.com/my/girls/bags_c11542942', 'https://shop.mango.com/my/girls/jewellery_c14884952', 'https://shop.mango.com/my/girls/more-accessories_c17719199']
-    print(len(all_women_category))
+    main_driver = initialise_web_driver()
+    main_soup = make_soup(main_driver, main_url)
+    main_driver.close()
 
-    urls = scroll_each_url(all_women_category)
+    all_category = get_all_url(main_soup)
+    print(len(all_category))
+
+    urls = scroll_each_url(all_category)
 
     # Remove the URL that has already been scraped to avoid duplication
     with open("Mango_Data.json", "r") as file:
         data = json.load(file)
 
-    temp_list = []
-    for each in data:
-        temp_list.append(each["URL"])
-
     already_in_list = []
-    for each in temp_list:
-        # each = re.findall(r'[\S]+.html', each)[0]
-        already_in_list.append(each)
+    for each in data:
+        already_in_list.append(each["URL"])
 
-    print("len of already_in_list", len(already_in_list))
+    final_list = []
+    for each in urls:
+        if each not in already_in_list:
+            final_list.append(each)
 
     print("before remove: ", len(urls))
-    for each in urls:
-        urls.remove(each)
-    print("after remove: ", len(urls))
+    print("after remove: ", len(final_list))
 
-    final_output = scrape_all(urls)
-
+    final_output = scrape_all(final_list)
     write_to_file(final_output)
 
     end = time.time()

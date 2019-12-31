@@ -75,6 +75,12 @@ def find_duplicate_url():
 
 
 # find_unsuccessful_scrape()
-# process_duplicate()
+process_duplicate()
+#
+# a = ["1", "2", "3"]
+# urls = ["1", "2", "3", "4"]
+# for each in urls:
+#     print(each)
+# print(urls)
 
 
