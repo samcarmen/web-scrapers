@@ -1,18 +1,17 @@
 import json
 import re
 
-from plyer import notification
-
 
 def process_duplicate():
-    with open('Mango_Data.json') as file:
+    with open('Mango_Data_2.json') as file:
         parsed = json.load(file)
 
-    unique = {each['IMAGE']: each for each in parsed}.values()
+    unique = {each['IMAGE']:each  for each in parsed}.values()
     unique = [each for each in unique]
 
-    print("With duplicate: ", len(parsed))
+    print("Original length:", len(parsed))
     print("Without duplicate: ", len(unique))
+    print("Number of duplicate: ", len(parsed) - len(unique))
 
     # with open('raw_scrape_mango.json', 'w') as outfile:
     #     json.dump(unique, outfile)
@@ -44,10 +43,11 @@ def find_unsuccessful_scrape():
 
     print("before remove empty: ", len(temp_parsed))
 
-    for each in temp_parsed:
+    for i in range(len(temp_parsed)):
+        each = temp_parsed[i]
         if each['IMAGE'] is None or each["PRODUCT_REFERENCE"] is None:
             not_complete_list.append(each['URL'])
-            temp_parsed.remove(each)
+            del temp_parsed[i]
 
     print("after remove empty:", len(temp_parsed))
 
@@ -61,7 +61,7 @@ def find_unsuccessful_scrape():
 
 
 def find_duplicate_url():
-    with open("Mango_Data.json", "r") as file:
+    with open("Mango_Data_Temp.json", "r") as file:
         data = json.load(file)
 
     already_in_list = []
@@ -74,13 +74,22 @@ def find_duplicate_url():
     print(already_in_list)
 
 
+def process_raw_scrape():
+    with open("raw_scrape_mango.json", 'r') as json_file:
+        parsed = json.load(json_file)
+
+    pretty_output = json.dumps(parsed, indent=2)
+    print(pretty_output)
+    print(len(parsed))
+
+    f = open("Mango_Data_Temp.json", "w")
+    f.write(pretty_output)
+    f.close()
+
+
 # find_unsuccessful_scrape()
-process_duplicate()
-#
-# a = ["1", "2", "3"]
-# urls = ["1", "2", "3", "4"]
-# for each in urls:
-#     print(each)
-# print(urls)
+# process_duplicate()
+process_raw_scrape()
+
 
 

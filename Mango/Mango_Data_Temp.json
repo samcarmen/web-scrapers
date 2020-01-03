@@ -1,79 +1,85 @@
 [
   {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67020045_01_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 67020045-DAMIAN6-LO ",
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040599_30_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040599-COLOR-LH ",
     "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/boys/shirts-formal/cotton-shirt_67020045.html?c=01&n=1&s=prendas_nino.familia;253",
+    "URL": "https://shop.mango.com/my/men/wallets/saffiano-effect-cardholder_67040599.html?c=30&n=1&s=accesorios_he.accesorio;616",
     "DESCRIPTION": [
-      " Cotton fabric",
-      "Classic collar",
-      "Long sleeve with buttoned cuffs",
-      "Button fastening on the front section",
-      "Contrast button fastening",
-      "Patch pocket on the side."
+      " Faux-saffiano leather",
+      "Multiple card slots",
+      "7.0x1.0x10.0cm (LengthxHeightxWidth)"
     ],
     "MATERIAL": [
-      "Composition: 100%  cotton"
+      "Composition: 100%  polyurethane",
+      " Lining: 100%  polyester"
     ],
     "ORIGINAL_PRICE": {
-      "PRICE": "75",
+      "PRICE": "59.90",
       "CURRENCY": "RM"
     },
     "SALES_PRICE": {
-      "PRICE": "75",
+      "PRICE": "59.90",
       "CURRENCY": "RM"
     },
     "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf",
+      "no washing",
       "do not bleach",
-      "ironing max 110\u00b0c / 230\u00baf",
+      "do not iron",
       "do not dry clean",
       "do not tumble dry"
     ],
     "CATEGORY": [
-      "Boys",
-      "Clothing",
-      "Shirts"
+      "Men",
+      "Accessories",
+      "Wallets"
     ],
-    "COLOUR": "White",
-    "NAME": "Cotton shirt"
+    "COLOUR": "Brown",
+    "NAME": "Saffiano-effect cardholder"
   },
   {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57045918_02_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 57045918-GRIZZLE-LO ",
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53073022_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53073022-VEGAS-LH ",
     "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/boys/t-shirts-long-sleeve/bear-printed-t-shirt_57045918.html?c=02&n=1&s=prendas_nino.familia;254,255",
+    "URL": "https://shop.mango.com/my/men/trousers-formal/super-slim-fit-suit-pants_53073022.html?c=56&n=1&s=prendas_he.familia;131,132",
     "DESCRIPTION": [
-      " Cotton fabric",
-      "Printed animal",
-      "Printed message",
-      "Rounded neck",
-      "Long sleeve."
+      " Tailored line",
+      "Super slim fit",
+      "Flowy fabric",
+      "Two side pockets",
+      "Coin pocket",
+      "Welt pocket on the back",
+      "Loops",
+      "Concealed button, hook and zip fastening",
+      "The tightest fit you\u2019ll find in our Suit Guide. Designed for events and ceremonies this suit is made with a tight silhouette with its satin tuxedo lapel and a fitting cut from shoulders to lower back, it feels like a second skin.Our Super Slim Fit is tailored in four different colours to dress each of your daily moments. Choose the style that best suits your personality. For night-time, go for a more refined look with a black suit, ideal for special events and celebrations",
+      "Inside leg measurement 80.3 cm",
+      "Side length 105.0 cm",
+      "These measures have been calculated for a 42 size"
     ],
     "MATERIAL": [
-      "Composition: 100%  cotton"
+      "Composition: 77%  polyester,20%  viscose,3%  elastane",
+      " Pockets lining: 50%  polyester,50%  cotton"
     ],
     "ORIGINAL_PRICE": {
-      "PRICE": "59",
+      "PRICE": "229",
       "CURRENCY": "RM"
     },
     "SALES_PRICE": {
-      "PRICE": "35",
+      "PRICE": "149",
       "CURRENCY": "RM"
     },
     "WASHING_INSTRUCTION": [
-      "machine washing max 30\u00b0c / 85\u00baf",
+      "no washing",
       "do not bleach",
       "ironing max 110\u00b0c / 230\u00baf",
-      "do not dry clean",
+      "dry cleaning perchloroethylene",
       "do not tumble dry"
     ],
     "CATEGORY": [
-      "Boys",
+      "Men",
       "Clothing",
-      "T-shirts"
+      "Trousers"
     ],
-    "COLOUR": "Off White",
-    "NAME": "Bear printed t-shirt"
+    "COLOUR": "Dark Navy",
+    "NAME": "Super slim fit suit pants"
   }
 ]

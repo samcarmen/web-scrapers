@@ -10,13 +10,12 @@ import time
 
 def initialise_web_driver():
     options = Options()
-    # options.add_argument("--headless")
+    options.add_argument("--headless")
     options.add_argument('--ignore-certificate-errors')
     options.add_argument("--incognito")
     options.add_argument("User-Agent:'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0'")
     options.add_argument("--window-size=1920x1080")
-    driver = webdriver.Chrome(options=options,
-                              executable_path=r"C:\Users\User\Downloads\chromedriver_win32\chromedriver.exe")
+    driver = webdriver.Chrome(options=options, executable_path=r"C:\Users\User\Downloads\chromedriver_win32\chromedriver.exe")
 
     return driver
 
@@ -31,49 +30,33 @@ def make_soup(driver, url):
 
 
 def get_all_url(soup):
-    """
-    Function to get all the main links of each category on the Women main page
-    :param soup:
-    :return: a list of urls which comprised of each category in Women clothing and accessories
-    """
-    clothing_container = soup.find('nav', {"aria-label": "Filter by Baby boys"})
-    container = clothing_container.findAll('a')
-    urls = [each.get('href') for each in container]
-    urls = ["https://shop.mango.com" + each for each in urls]
-    url_list = [url for url in urls]  # append the url to a new list
+    cat_list = []
+    cat_keyword = ["Filter by Clothing", "Filter by Accessories", "Filter by Girls", "Filter by Baby girls",
+                   "Filter by Baby boys", "Filter by Newborn", "Filter by New now"]
 
-    # accessories_container = soup.find('nav', {"aria-label": "Filter by Accessories"})
-    # container = accessories_container.findAll('a')
-    # urls = [each.get('href') for each in container]
-    # urls = ["https://shop.mango.com" + each for each in urls]
-    # for url in urls:
-    #     url_list.append(url)
+    for each in cat_keyword:
+        try:
+            clothing_container = soup.find('nav', {"aria-label": each})
+            container = clothing_container.findAll('a')
+            urls = [each.get('href') for each in container]
+            urls = ["https://shop.mango.com" + each for each in urls]
+            for url in urls:
+                cat_list.append(url)
+        except AttributeError:
+            continue
 
-    return url_list
+    return cat_list
 
 
-def scroll_each_url(url_list):
-    """
-    Function to retrieve the link of every item in each category
-    by scrolling to the very bottom of the page.
-    :param url_list:
-    :return:
-    """
+def scroll_category(url_list):
     all_url = []
     driver = initialise_web_driver()
 
     for i in range(len(url_list)):
-        print("Processing url", i+1)
+        print("Processing url", i + 1)
         url = url_list[i]
-
         driver.get(url)  # open a new page
-
-        try:
-            driver.find_element_by_id("navColumns4").click()
-        except (NoSuchElementException, ElementClickInterceptedException):
-            pass
-
-        SCROLL_PAUSE_TIME = 4
+        time.sleep(2)
 
         # Get scroll height
         last_height = driver.execute_script("return document.body.scrollHeight")
@@ -81,9 +64,7 @@ def scroll_each_url(url_list):
         while True:
             # Scroll down to bottom
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-
-            # Wait to load page
-            time.sleep(SCROLL_PAUSE_TIME)
+            time.sleep(4)
 
             # Get the urls of the item
             page_source = driver.page_source
@@ -94,6 +75,7 @@ def scroll_each_url(url_list):
 
             for each in found_url:
                 all_url.append(each)
+            print(len(all_url))
 
             # Calculate new scroll height and compare with last scroll height
             new_height = driver.execute_script("return document.body.scrollHeight")
@@ -119,7 +101,7 @@ def get_name(soup):
 
 def get_price(soup):
     price_list = []
-    regex = r"([a-zA-Z]+)(\d+)"
+    regex = r"([a-zA-Z]+)(\d+.\d*)"
 
     try:
         sales_container = soup.find(class_="product-sale").text
@@ -167,8 +149,15 @@ def get_colour(soup):
 
 def get_description(soup):
     try:
-        container = soup.findAll(class_="product-info-text")[0].text
-        description = container.split('. ')
+        big_container = soup.find(class_="product-info-block")
+        container = big_container.findAll(class_="product-info-text")
+        description = container[0].text.split('. ')
+        description = [each.rstrip('.') for each in description]
+
+        for each in container[1:]:
+            if each.text != "":
+                description.append(each.text.rstrip('.'))
+
         return description
     except (TypeError, AttributeError, IndexError):
         print("*Error retrieving description")
@@ -225,14 +214,13 @@ def get_product_reference(soup):
 
 
 def scrape_all(url_list):
-    output_list = []
     driver = initialise_web_driver()
+
     for i in range(len(url_list)):
         url = url_list[i]
-        print("Now processing: ", i + 1, url)
+        print("Now processing: ", i+1, url)
 
         soup = make_soup(driver, url)
-
         image = get_image(soup)
         ref = get_product_reference(soup)
         colour = get_colour(soup)
@@ -273,10 +261,12 @@ def scrape_all(url_list):
             "COLOUR": colour,
             "NAME": name
         }
-        output_list.append(output)
+
+        with open('raw_scrape_mango.json', 'a') as outfile:
+            json.dump(output, outfile)
+            outfile.write(',\n')
 
     driver.quit()
-    return output_list
 
 
 def write_to_file(output):
@@ -297,35 +287,44 @@ def write_to_file(output):
 if __name__ == "__main__":
     start = time.time()
 
-    main_url = "https://shop.mango.com/my/baby-boys/coats_c26307252"
+    main_urls = ["https://shop.mango.com/my/women/coats_c67886633",
+                 "https://shop.mango.com/my/men/coats_c32859776",
+                 "https://shop.mango.com/my/girls/coats_c10792813",
+                 "https://shop.mango.com/my/baby-girls/coats_c17607080",
+                 "https://shop.mango.com/my/baby-girls/coats_d19035082",
+                 "https://shop.mango.com/my/boys/coats_c15872207",
+                 "https://shop.mango.com/my/baby-boys/coats_c26307252",
+                 "https://shop.mango.com/my/plus-size/coats_c11960442"
+                 ]
 
     main_driver = initialise_web_driver()
-    main_soup = make_soup(main_driver, main_url)
-    main_driver.close()
 
-    all_category = get_all_url(main_soup)
-    print(len(all_category))
+    for url in main_urls:
+        print("Processing: ", url)
+        main_soup = make_soup(main_driver, url)
+        all_category = get_all_url(main_soup)
+        print("Total number of category: ", len(all_category))
 
-    urls = scroll_each_url(all_category)
+        urls = scroll_category(all_category)
 
-    # Remove the URL that has already been scraped to avoid duplication
-    with open("Mango_Data.json", "r") as file:
-        data = json.load(file)
+        # Remove the URL that has already been scraped to avoid duplication
+        with open("Mango_Data_2.json", "r") as file:
+            data = json.load(file)
 
-    already_in_list = []
-    for each in data:
-        already_in_list.append(each["URL"])
+        already_in_list = []
+        for each in data:
+            shorter = each['URL'].split('&')
+            already_in_list.append(shorter[0])
 
-    final_list = []
-    for each in urls:
-        if each not in already_in_list:
-            final_list.append(each)
+        final_list = []
+        for each in urls:
+            if each.split('&')[0] not in already_in_list:
+                final_list.append(each)
 
-    print("before remove: ", len(urls))
-    print("after remove: ", len(final_list))
+        print("before remove: ", len(urls))
+        print("after remove: ", len(final_list))
 
-    final_output = scrape_all(final_list)
-    write_to_file(final_output)
+        scrape_all(final_list)
 
     end = time.time()
     time_taken = (end - start) / 60  # in minute
@@ -335,5 +334,5 @@ if __name__ == "__main__":
         title='Meow~',
         message='Scraping All Done Master!',
         app_icon=r'C:\Users\User\Downloads\cat.ico',
-        timeout=20,  # seconds
+        timeout=10,  # seconds
     )
