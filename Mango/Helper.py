@@ -6,26 +6,26 @@ def process_duplicate():
     with open('Mango_Data_2.json') as file:
         parsed = json.load(file)
 
-    unique = {each['IMAGE']:each  for each in parsed}.values()
+    unique = {each['IMAGE']: each for each in parsed}.values()
     unique = [each for each in unique]
 
     print("Original length:", len(parsed))
     print("Without duplicate: ", len(unique))
     print("Number of duplicate: ", len(parsed) - len(unique))
 
-    # with open('raw_scrape_mango.json', 'w') as outfile:
-    #     json.dump(unique, outfile)
-    #
-    # with open("raw_scrape_mango.json", 'r') as json_file:
-    #     parsed = json.load(json_file)
-    #
-    # pretty_output = json.dumps(parsed, indent=2)
-    # print(pretty_output)
-    # print(len(parsed))
-    #
-    # f = open("Mango_Data_Temp.json", "w")
-    # f.write(pretty_output)
-    # f.close()
+    with open('raw_scrape_mango.json', 'w') as outfile:
+        json.dump(unique, outfile)
+
+    with open("raw_scrape_mango.json", 'r') as json_file:
+        parsed = json.load(json_file)
+
+    pretty_output = json.dumps(parsed, indent=2)
+    print(pretty_output)
+    print(len(parsed))
+
+    f = open("Mango_Data_2.json", "w")
+    f.write(pretty_output)
+    f.close()
 
 
 def find_unsuccessful_scrape():
