@@ -43,15 +43,12 @@ def find_unsuccessful_scrape():
 
     print("before remove empty: ", len(temp_parsed))
 
-    for i in range(len(temp_parsed)):
-        each = temp_parsed[i]
-        if each['IMAGE'] is None or each["PRODUCT_REFERENCE"] is None:
-            not_complete_list.append(each['URL'])
-            del temp_parsed[i]
+    complete_list = [each for each in temp_parsed if each['IMAGE'] is not None]
+    not_complete_list = [each['URL'] for each in temp_parsed if each['IMAGE'] is None]
 
-    print("after remove empty:", len(temp_parsed))
+    print("after remove empty:", len(complete_list))
 
-    pretty_output = json.dumps(temp_parsed, indent=2)
+    pretty_output = json.dumps(complete_list, indent=2)
 
     f = open("Mango_Data_Temp.json", "w")
     f.write(pretty_output)
@@ -88,8 +85,8 @@ def process_raw_scrape():
 
 
 # find_unsuccessful_scrape()
-# process_duplicate()
-process_raw_scrape()
+process_duplicate()
+# process_raw_scrape()
 
 
 

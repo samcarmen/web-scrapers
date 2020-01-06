@@ -1,20 +1,4162 @@
-[
+
   {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040599_30_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 67040599-COLOR-LH ",
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67022002_28_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67022002-VALETI-LV ",
     "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/men/wallets/saffiano-effect-cardholder_67040599.html?c=30&n=1&s=accesorios_he.accesorio;616",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/v-neck-sweater_67022002.html?c=28&n=1&s=essential_violeta.familia;455",
     "DESCRIPTION": [
-      " Faux-saffiano leather",
-      "Multiple card slots",
-      "7.0x1.0x10.0cm (LengthxHeightxWidth)"
+      " Knitted fabric",
+      "V-neck",
+      "Long sleeve",
+      "Cable knit finish"
     ],
     "MATERIAL": [
-      "Composition: 100%  polyurethane",
-      " Lining: 100%  polyester"
+      "Composition: 100%  acrylic"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Burnt Orange",
+    "NAME": "V-neck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67032002_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67032002-GIGI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-cardigans/fine-knit-cardigan_67032002.html?c=56&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "Long sleeve",
+      "Button fastening on the front section",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 39%  viscose,28%  polyamide,26%  polyester,7%  cashmere"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Navy",
+    "NAME": "Fine-knit cardigan"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67042502_75_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67042502-EASY6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-plain/organic-cotton-essential-t-shirt_67042502.html?c=75&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Organic cotton fabric",
+      "Rounded neck",
+      "Dropped shoulder seams",
+      "Long sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  organic cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Cherry",
+    "NAME": "Organic cotton essential t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67002003_45_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67002003-PLANAP6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-blouses/printed-cotton-shirt_67002003.html?c=45&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Combined design",
+      "Cotton fabric",
+      "Print",
+      "Contrasting trims on the sides",
+      "Classic collar",
+      "Long sleeve",
+      "Buttoned cuffs",
+      "Botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Rib: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Aqua Green",
+    "NAME": "Printed cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67020047_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67020047-MACRO6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-blouses/tie-neck-blouse_67020047.html?c=56&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Flowy fabric",
+      "V-neck",
+      "Long sleeve with buttoned cuffs",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Tie-neck blouse"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050039_17_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67050039-LISA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/v-neck-sweater_67050039.html?c=17&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "V-neck",
+      "Long sleeve",
+      "Dropped shoulder seams",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 77%  viscose,23%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Caramel",
+    "NAME": "V-neck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67082006_37_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67082006-PARIS-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/dresses-midi/belt-shirt-dress_67082006.html?c=37&n=1&s=essential_violeta.familia;432",
+    "DESCRIPTION": [
+      " Flared design",
+      "Midi design",
+      "Shirt-style",
+      "Classic collar",
+      "Long sleeve",
+      "Buttoned cuffs",
+      "Adjustable belt",
+      "Loops",
+      "Botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Khaki",
+    "NAME": "Belt shirt dress"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67012004_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67012004-CABLE-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/knitted-braided-sweater_67012004.html?c=56&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted braided fabric",
+      "V-neck",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 53%  polyester,21%  acrylic,21%  polyamide,5%  wool"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning mechanical restric. perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Knitted braided sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040040_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040040-ROSCO-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/turtle-neck-sweater_67040040.html?c=99&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted fabric",
+      "Loose rolled neck",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 39%  viscose,28%  polyester,27%  polyamide,6%  cashmere"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Turtle neck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67022002_05_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67022002-VALETI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/v-neck-sweater_67022002.html?c=05&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted fabric",
+      "V-neck",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  acrylic"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Ecru",
+    "NAME": "V-neck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050039_44_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67050039-LISA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/v-neck-sweater_67050039.html?c=44&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "V-neck",
+      "Long sleeve",
+      "Dropped shoulder seams",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 77%  viscose,23%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Emerald Green",
+    "NAME": "V-neck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040039_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040039-LISA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-cardigans/knit-long-cardigan_67040039.html?c=99&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted fabric",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 75%  viscose,25%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Knit long cardigan"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67002005_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67002005-PLANA6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-shirts/buttoned-cotton-shirt_67002005.html?c=56&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Fabric with cotton",
+      "Classic collar",
+      "V-neck",
+      "Long sleeve with buttoned cuffs",
+      "Patch pocket on the chest",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Rib: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Buttoned cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67012004_70_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67012004-CABLE-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/knitted-braided-sweater_67012004.html?c=70&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted braided fabric",
+      "V-neck",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 53%  polyester,21%  acrylic,21%  polyamide,5%  wool"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning mechanical restric. perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Red",
+    "NAME": "Knitted braided sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/63177672_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 63177672-GINA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/fine-knit-sweater_63177672.html?c=99&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "Rounded neck",
+      "Long sleeve with buttoned cuffs",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 75%  viscose,25%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Fine-knit sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67002003_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67002003-PLANAP6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-blouses/printed-cotton-shirt_67002003.html?c=56&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Combined design",
+      "Cotton fabric",
+      "Print",
+      "Contrasting trims on the sides",
+      "Classic collar",
+      "Long sleeve",
+      "Buttoned cuffs",
+      "Botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Rib: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Printed cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67000046_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67000046-MACROP6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-blouses/bow-printed-blouse_67000046.html?c=99&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Flowy fabric",
+      "V-neck",
+      "Bow at the neck",
+      "Long sleeve with buttoned cuffs",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Bow printed blouse"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040057_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040057-GIGILU-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/buttoned-striped-sweater_67040057.html?c=56&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "Stripped fabric",
+      "Long sleeve with buttoned cuffs",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 39%  viscose,28%  polyamide,26%  polyester,7%  cashmere"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Navy",
+    "NAME": "Buttoned striped sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67010042_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67010042-BASI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-plain/organic-cotton-essential-t-shirt_67010042.html?c=99&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Organic cotton fabric",
+      "Rounded neck",
+      "Short sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 90%  organic cotton,10%  elastane"
     ],
     "ORIGINAL_PRICE": {
       "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Organic cotton essential t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67032002_50_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67032002-GIGI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-cardigans/fine-knit-cardigan_67032002.html?c=50&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "Long sleeve",
+      "Button fastening on the front section",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 39%  viscose,28%  polyamide,26%  polyester,7%  cashmere"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Sky Blue",
+    "NAME": "Fine-knit cardigan"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040042_77_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040042-LENCI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-tanks/lace-top_67040042.html?c=77&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Flowy fabric",
+      "Thin straps",
+      "V-neck",
+      "Lace detail"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  viscose",
+      " Applique: 100%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Wine",
+    "NAME": "Lace top"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/63135735_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 63135735-GINA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-cardigans/tortoiseshell-buttons-cardigan_63135735.html?c=99&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Midi design",
+      "Knitted fabric",
+      "Rounded neck",
+      "Long sleeve with buttoned cuffs",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 76%  viscose,24%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Tortoiseshell buttons cardigan"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/63195734_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 63195734-GINA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/fine-knit-sweater_63195734.html?c=99&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "Rounded neck",
+      "Long sleeve with buttoned cuffs",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 76%  viscose,24%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Fine-knit sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67010076_52_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67010076-PRINTY6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-shirts/leopard-print-shirt_67010076.html?c=52&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Flowy fabric",
+      "Leopard print",
+      "Lapel-collar",
+      "Lapel with notch",
+      "Long sleeve",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Blue",
+    "NAME": "Leopard print shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67044001_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67044001-EASY6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-plain/organic-cotton-essential-t-shirt_67044001.html?c=01&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Organic cotton fabric",
+      "Rounded neck",
+      "Dropped shoulder seams",
+      "Short sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  organic cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "White",
+    "NAME": "Organic cotton essential t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040157_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040157-WOM-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-printed/printed-message-t-shirt_67040157.html?c=99&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Rounded neck",
+      "Short sleeve",
+      "Dropped shoulder seams",
+      "Printed message"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Printed message t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67024001_50_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67024001-OXFORD6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts/oxford-shirt_67024001.html?c=50&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Cotton-blend fabric",
+      "Classic collar",
+      "Long buttoned sleeve",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 68%  polyester,32%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Sky Blue",
+    "NAME": "Oxford shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040027_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040027-MARGARIT-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/flower-embroidered-sweater_67040027.html?c=56&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "Long sleeve",
+      "Flowered embroidery",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 69%  viscose,31%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Flower embroidered sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050039_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67050039-LISA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/v-neck-sweater_67050039.html?c=99&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "V-neck",
+      "Long sleeve",
+      "Dropped shoulder seams",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 77%  viscose,23%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "V-neck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050037_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67050037-BASI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-tanks/cotton-organic-top_67050037.html?c=56&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Organic cotton fabric",
+      "Rounded neck",
+      "Wide straps"
+    ],
+    "MATERIAL": [
+      "Composition: 90%  organic cotton,10%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "39.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "39.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Navy",
+    "NAME": "Cotton organic top"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67010017_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67010017-SONG-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-printed/printed-message-t-shirt_67010017.html?c=99&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Rounded neck",
+      "Short sleeve",
+      "Dropped shoulder seams",
+      "Printed message"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [],
+    "COLOUR": "Black",
+    "NAME": "Printed message t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040058_50_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040058-GIGI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/fine-knit-sweater_67040058.html?c=50&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "Rounded neck",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 39%  viscose,28%  polyamide,26%  polyester,7%  cashmere"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Sky Blue",
+    "NAME": "Fine-knit sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67020036_02_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67020036-RUTH6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-blouses/v-neckline-blouse_67020036.html?c=02&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Flowy fabric",
+      "Rounded neck",
+      "V-neck",
+      "Long sleeve with buttoned cuffs",
+      "Patch pocket on the front"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  viscose"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Off White",
+    "NAME": "V-neckline blouse"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67042502_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67042502-EASY6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-plain/organic-cotton-essential-t-shirt_67042502.html?c=99&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Organic cotton fabric",
+      "Rounded neck",
+      "Dropped shoulder seams",
+      "Long sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  organic cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Organic cotton essential t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67010042_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67010042-BASI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-plain/organic-cotton-essential-t-shirt_67010042.html?c=01&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Organic cotton fabric",
+      "Rounded neck",
+      "Short sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 90%  organic cotton,10%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "White",
+    "NAME": "Organic cotton essential t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050039_94_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67050039-LISA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/v-neck-sweater_67050039.html?c=94&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "V-neck",
+      "Long sleeve",
+      "Dropped shoulder seams",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 77%  viscose,23%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Medium Heather Grey",
+    "NAME": "V-neck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67952002_TO_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67952002-ESTRELLA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts/chest-pocket-denim-shirt_67952002.html?c=TO&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Denim style cotton fabric",
+      "Classic collar",
+      "Two patch pockets on the front",
+      "Long sleeve",
+      "Buttoned cuffs",
+      "Botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Dark Blue",
+    "NAME": "Chest-pocket denim shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67012004_85_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67012004-CABLE-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/knitted-braided-sweater_67012004.html?c=85&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted braided fabric",
+      "V-neck",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 53%  polyester,21%  acrylic,21%  polyamide,5%  wool"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning mechanical restric. perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Pink",
+    "NAME": "Knitted braided sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040042_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040042-LENCI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-tanks/lace-top_67040042.html?c=99&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Flowy fabric",
+      "Thin straps",
+      "V-neck",
+      "Lace detail"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  viscose",
+      " Applique: 100%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Lace top"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050039_88_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67050039-LISA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/v-neck-sweater_67050039.html?c=88&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "V-neck",
+      "Long sleeve",
+      "Dropped shoulder seams",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 77%  viscose,23%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Fuchsia",
+    "NAME": "V-neck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67062501_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67062501-YUZU-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-plain/organic-cotton-t-shirt_67062501.html?c=01&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " 100% organic cotton",
+      "V-neck",
+      "Long sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  organic cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "White",
+    "NAME": "Organic cotton t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67002007_80_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67002007-LAUREL6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-shirts/flowy-shirt_67002007.html?c=80&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Flowy fabric",
+      "Classic collar",
+      "Long sleeve with buttoned cuffs",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  viscose"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Nude",
+    "NAME": "Flowy shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040039_75_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040039-LISA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-cardigans/knit-long-cardigan_67040039.html?c=75&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted fabric",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 75%  viscose,25%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Cherry",
+    "NAME": "Knit long cardigan"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67030018_09_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67030018-CREME-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-printed/printed-message-t-shirt_67030018.html?c=09&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Rounded neck",
+      "Short sleeve",
+      "Dropped shoulder seams",
+      "Message printed on the front"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Medium Brown",
+    "NAME": "Printed message t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67082006_28_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67082006-PARIS-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/dresses-midi/belt-shirt-dress_67082006.html?c=28&n=1&s=essential_violeta.familia;432",
+    "DESCRIPTION": [
+      " Flared design",
+      "Midi design",
+      "Shirt-style",
+      "Classic collar",
+      "Long sleeve",
+      "Buttoned cuffs",
+      "Adjustable belt",
+      "Loops",
+      "Botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Burnt Orange",
+    "NAME": "Belt shirt dress"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67064001_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67064001-TOMASIN-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-tanks/essential-strap-top_67064001.html?c=99&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Basic design",
+      "Thin straps",
+      "Round neck"
+    ],
+    "MATERIAL": [
+      "Composition: 92%  polyamide,8%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Essential strap top"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67002005_02_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67002005-PLANA6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-shirts/buttoned-cotton-shirt_67002005.html?c=02&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Fabric with cotton",
+      "Classic collar",
+      "V-neck",
+      "Long sleeve with buttoned cuffs",
+      "Patch pocket on the chest",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Rib: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Off White",
+    "NAME": "Buttoned cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67002005_87_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67002005-PLANA6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-shirts/buttoned-cotton-shirt_67002005.html?c=87&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Fabric with cotton",
+      "Classic collar",
+      "V-neck",
+      "Long sleeve with buttoned cuffs",
+      "Patch pocket on the chest",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Rib: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Coral Red",
+    "NAME": "Buttoned cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67030001_32_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67030001-TOLCAT-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/striped-knit-sweater_67030001.html?c=32&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted fabric",
+      "V-neck",
+      "Striped print",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 62%  cotton,30%  polyester,8%  viscose"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Chocolate",
+    "NAME": "Striped knit sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67010076_87_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67010076-PRINTY6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts-shirts/leopard-print-shirt_67010076.html?c=87&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Flowy fabric",
+      "Leopard print",
+      "Lapel-collar",
+      "Lapel with notch",
+      "Long sleeve",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Coral Red",
+    "NAME": "Leopard print shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67062501_37_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67062501-YUZU-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-plain/organic-cotton-t-shirt_67062501.html?c=37&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " 100% organic cotton",
+      "V-neck",
+      "Long sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  organic cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Khaki",
+    "NAME": "Organic cotton t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/63190520_96_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 63190520-LENCI5-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-tanks/lace-top_63190520.html?c=96&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Flowy fabric",
+      "Thin straps",
+      "V-neck",
+      "Lace detail"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  viscose"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Dark Heather Grey",
+    "NAME": "Lace top"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040040_05_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040040-ROSCO-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/turtle-neck-sweater_67040040.html?c=05&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted fabric",
+      "Loose rolled neck",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 39%  viscose,28%  polyester,27%  polyamide,6%  cashmere"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Ecru",
+    "NAME": "Turtle neck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040039_94_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040039-LISA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-cardigans/knit-long-cardigan_67040039.html?c=94&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted fabric",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 75%  viscose,25%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Medium Heather Grey",
+    "NAME": "Knit long cardigan"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67040058_76_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67040058-GIGI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/fine-knit-sweater_67040058.html?c=76&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Fine knit fabric",
+      "Rounded neck",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 39%  viscose,28%  polyamide,26%  polyester,7%  cashmere"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Maroon",
+    "NAME": "Fine-knit sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050037_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67050037-BASI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-tanks/cotton-organic-top_67050037.html?c=01&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Organic cotton fabric",
+      "Rounded neck",
+      "Wide straps"
+    ],
+    "MATERIAL": [
+      "Composition: 90%  organic cotton,10%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "39.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "39.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "White",
+    "NAME": "Cotton organic top"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/63100536_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 63100536-EASY5-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-plain/organic-cotton-t-shirt_63100536.html?c=99&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Organic cotton fabric",
+      "Printed design",
+      "Rounded neck",
+      "Short sleeve with turnover",
+      "Dropped shoulder seams"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  organic cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Organic cotton t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67050037_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67050037-BASI-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-tanks/cotton-organic-top_67050037.html?c=99&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Organic cotton fabric",
+      "Rounded neck",
+      "Wide straps"
+    ],
+    "MATERIAL": [
+      "Composition: 90%  organic cotton,10%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "39.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "39.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Cotton organic top"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67020110_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67020110-JAMES-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/dresses-short/stripe-textured-dress_67020110.html?c=99&n=1&s=essential_violeta.familia;432",
+    "DESCRIPTION": [
+      " Striped texture fabric",
+      "Flared design",
+      "V-neck",
+      "Long sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 75%  polyester,20%  cotton,5%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Stripe textured dress"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67030001_20_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67030001-TOLCAT-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/cardigans-and-sweaters-sweaters/striped-knit-sweater_67030001.html?c=20&n=1&s=essential_violeta.familia;455",
+    "DESCRIPTION": [
+      " Knitted fabric",
+      "V-neck",
+      "Striped print",
+      "Long sleeve",
+      "Cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 62%  cotton,30%  polyester,8%  viscose"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "Orange",
+    "NAME": "Striped knit sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67020015_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67020015-BOLITA-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/t-shirts-and-tops-printed/bead-printed-t-shirt_67020015.html?c=01&n=1&s=essential_violeta.familia;418",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Rounded neck",
+      "Short sleeve",
+      "Dropped shoulder seams",
+      "Printed message",
+      "Decorative beads"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "White",
+    "NAME": "Bead printed t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67024001_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67024001-OXFORD6-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shirts/oxford-shirt_67024001.html?c=01&n=1&s=essential_violeta.familia;414",
+    "DESCRIPTION": [
+      " Cotton-blend fabric",
+      "Classic collar",
+      "Long buttoned sleeve",
+      "Button fastening on the front section"
+    ],
+    "MATERIAL": [
+      "Composition: 68%  polyester,32%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Essential prices"
+    ],
+    "COLOUR": "White",
+    "NAME": "Oxford shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57006307_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 57006307-PETITE-H-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/t-shirts-and-tops-short-sleeve/essential-cotton-blend-t-shirt_57006307.html?c=99&n=1&s=Rebajas_she.familia;18,318,320,46",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Rounded neck",
+      "Short sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "49.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "29.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Sale",
+      "T-shirts and tops"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Essential cotton-blend t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53070773_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53070773-PLANITA5-N-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/shirts-shirts/chest-pocket-cotton-shirt_53070773.html?c=01&n=1&s=Rebajas_she.familia;14",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Classic collar",
+      "Long buttoned sleeve",
+      "Two buttoned patch pockets on the chest",
+      "Button fastening on the front section",
+      "Back length 61.5 cm",
+      "These measures have been calculated for a S size"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Edging: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Sale",
+      "Shirts"
+    ],
+    "COLOUR": "White",
+    "NAME": "Chest-pocket cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53060663_08_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53060663-ONDA-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/belts/rounded-buckle-belt_53060663.html?c=08&n=1&s=Rebajas_she.accesorio;44,444",
+    "DESCRIPTION": [
+      " Faux-leather",
+      "Buckle",
+      "90.0x3.0cm (LengthxWidth)"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyurethane",
+      " Lining: 100%  polyurethane",
+      " Buckle: 100%  zinc"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "no washing",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Sale",
+      "Belts"
+    ],
+    "COLOUR": "Beige",
+    "NAME": "Rounded buckle belt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53070860_47_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53070860-GENIUS-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/cardigans-and-sweaters-sweaters/dolman-sleeve-sweater_53070860.html?c=47&n=1&s=Rebajas_she.familia;55,355,610,810",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Thick knitted fabric",
+      "Long batwing sleeve",
+      "Rounded neck"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Sale",
+      "Cardigans and sweaters"
+    ],
+    "COLOUR": "Billiard Green",
+    "NAME": "Dolman-sleeve sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67032904_02_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67032904-LOGO-I-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/trousers-skinny/coated-skinny-fit-trousers_67032904.html?c=02&n=1&s=nuevatemporada_she.familia;26,326,22,322",
+    "DESCRIPTION": [
+      " Online Exclusive",
+      "Soft finish",
+      "Waxed",
+      "Super skinny fit",
+      "Decorative seams",
+      "Elastic waist",
+      "Zipped hem"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 40\u00b0c / 105\u00baf short spin dry",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "New Collection"
+    ],
+    "COLOUR": "Off White",
+    "NAME": "Coated skinny-fit trousers"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67042515_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67042515-LACROSSE-H-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/dresses-shirt-dresses/embroidered-cotton-dress_67042515.html?c=01&n=1&s=nuevatemporada_she.familia;32",
+    "DESCRIPTION": [
+      " 100% organic cotton",
+      "Embroidered fabric",
+      "Short design",
+      "Flared hem",
+      "Mao neckline",
+      "Button fastening on the front section",
+      "Puffed three quarter sleeves"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Lining: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "New Collection"
+    ],
+    "COLOUR": "White",
+    "NAME": "Embroidered cotton dress"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67014397_95_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67014397-MINNIE-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/t-shirts-and-tops/cotton-disney-t-shirt_67014397.html?c=95&n=1&s=nuevatemporada_she.familia;18,318,320,46",
+    "DESCRIPTION": [
+      " 100% organic cotton",
+      "Printed design",
+      "Rounded neck",
+      "Short sleeve",
+      "Faded grey"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "New Collection"
+    ],
+    "COLOUR": "Charcoal",
+    "NAME": "Cotton Disney t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67004756_51_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67004756-SCULPT-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/jeans/cropped-skinny-jeans_67004756.html?c=51&n=1&s=nuevatemporada_she.familia;28",
+    "DESCRIPTION": [
+      "",
+      "Cropped design, skinny fit, medium waist, sustainable cotton fabric, two side pockets, coin pocket, two patch pockets on the back, loops, zip and one button fastening"
+    ],
+    "MATERIAL": [
+      "Composition: 70%  cotton,26%  polyester,3%  viscose,1%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "New Collection"
+    ],
+    "COLOUR": "China Blue",
+    "NAME": "Cropped Skinny jeans"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67072504_44_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67072504-ANGELA-A-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/skirts-long/pleated-midi-skirt_67072504.html?c=44&n=1&s=nuevatemporada_she.familia;20",
+    "DESCRIPTION": [
+      " Flared design",
+      "Pleated fabric",
+      "Side zip fastening"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "New Collection"
+    ],
+    "COLOUR": "Emerald Green",
+    "NAME": "Pleated midi skirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67012891_32.jpg",
+    "PRODUCT_REFERENCE": "REF. 67012891-EMMA-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/sunglasses/tortoiseshell-rounded-sunglasses_67012891.html?c=32&n=1&s=nuevatemporada_she.accesorio;50,777",
+    "DESCRIPTION": [
+      " Round frames",
+      "Tortoiseshell"
+    ],
+    "MATERIAL": [
+      "Frame: 98%  polycarbonate,2%  copper",
+      " Glass: 100%  polycarbonate"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Women",
+      "New Collection"
+    ],
+    "COLOUR": "Chocolate",
+    "NAME": "Tortoiseshell rounded sunglasses"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67094424_02_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67094424-MUSIC-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/shirts-shirts/polka-dot-flowy-shirt_67094424.html?c=02&n=1&s=nuevatemporada_she.familia;14",
+    "DESCRIPTION": [
+      "",
+      "Flowy fabric, embroidered dots, classic collar, long sleeve, buttoned cuffs, botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  viscose"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [],
+    "COLOUR": "Off White",
+    "NAME": "Polka-dot flowy shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67010530_79_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67010530-HARRY-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/scarves-and-neckscarves/textured-check-scarf_67010530.html?c=79&n=1&s=nuevatemporada_she.accesorio;52,452",
+    "DESCRIPTION": [
+      " Textured fabric",
+      "Checkered print",
+      "Frayed hem",
+      "200.0x70.0cm (LengthxWidth)"
+    ],
+    "MATERIAL": [
+      "Composition: 87%  polyester,8%  viscose,5%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "New Collection"
+    ],
+    "COLOUR": "Russet",
+    "NAME": "Textured check scarf"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67094424_02_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67094424-MUSIC-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/shirts-shirts/polka-dot-flowy-shirt_67094424.html?c=02&n=1&s=essentials_she.familia;14",
+    "DESCRIPTION": [
+      "",
+      "Flowy fabric, embroidered dots, classic collar, long sleeve, buttoned cuffs, botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  viscose"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Essential prices"
+    ],
+    "COLOUR": "Off White",
+    "NAME": "Polka-dot flowy shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67004756_51_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67004756-SCULPT-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/jeans/cropped-skinny-jeans_67004756.html?c=51&n=1&s=essentials_she.familia;28",
+    "DESCRIPTION": [
+      "",
+      "Cropped design, skinny fit, medium waist, sustainable cotton fabric, two side pockets, coin pocket, two patch pockets on the back, loops, zip and one button fastening"
+    ],
+    "MATERIAL": [
+      "Composition: 70%  cotton,26%  polyester,3%  viscose,1%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Essential prices"
+    ],
+    "COLOUR": "China Blue",
+    "NAME": "Cropped Skinny jeans"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67042515_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67042515-LACROSSE-H-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/dresses-shirt-dresses/embroidered-cotton-dress_67042515.html?c=01&n=1&s=essentials_she.familia;32",
+    "DESCRIPTION": [
+      " 100% organic cotton",
+      "Embroidered fabric",
+      "Short design",
+      "Flared hem",
+      "Mao neckline",
+      "Button fastening on the front section",
+      "Puffed three quarter sleeves"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Lining: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Essential prices"
+    ],
+    "COLOUR": "White",
+    "NAME": "Embroidered cotton dress"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67024390_37_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67024390-RAFT-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shirts-printed/slim-fit-printed-cotton-shirt_67024390.html?c=37&n=1&s=nuevatemporada_he.familia;120",
+    "DESCRIPTION": [
+      " Smart collection",
+      "Cotton fabric",
+      "Camouflage print",
+      "Classic collar",
+      "Buttoned collar",
+      "Patch pocket",
+      "Long sleeve",
+      "Rounded cuff with two button fastening",
+      "Botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "Khaki",
+    "NAME": "Slim-fit printed cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67064383_92_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67064383-FINGER-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/t-shirts/printed-cotton-blend-t-shirt_67064383.html?c=92&n=1&s=nuevatemporada_he.familia;115,116",
+    "DESCRIPTION": [
+      "",
+      "Fabric with cotton, speckled jacquard, print on the front, rounded neck, short sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 60%  cotton,40%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "Grey",
+    "NAME": "Printed cotton-blend t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67032502_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67032502-CALICE-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/jackets-field-jackets/blue-nappa-bomber-jacket_67032502.html?c=56&n=1&s=nuevatemporada_he.familia;109",
+    "DESCRIPTION": [
+      " Short design",
+      "100% nappa leather",
+      "Turtleneck",
+      "Elastic detail on the neck",
+      "Two zip pockets on the front ",
+      "Long sleeve",
+      "Elastic finish",
+      "Zip fastening",
+      "Inner lining",
+      "Inner pocket"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  sheep leather",
+      " Lining: 55%  polyester,45%  viscose",
+      " Sleeve lining: 100%  polyester",
+      " Rib: 60%  cotton,40%  polyester",
+      " Pockets lining: 65%  polyester,35%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "999",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "999",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "no washing",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Blue nappa bomber jacket"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67044384_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67044384-FULL-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/t-shirts-printed/printed-cotton-blend-t-shirt_67044384.html?c=01&n=1&s=nuevatemporada_he.familia;115,116",
+    "DESCRIPTION": [
+      "",
+      "Cotton fabric, printed message, rounded neck, short sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "White",
+    "NAME": "Printed cotton-blend t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67023633_07_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67023633-NEWPUXET-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shoes-casual-shoes/suede-sport-shoes_67023633.html?c=07&n=1&s=nuevatemporada_he.accesorio;140",
+    "DESCRIPTION": [
+      " Suede",
+      "Rounded toe",
+      "Decorative strap",
+      "Rubber sole",
+      "Leather laces"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 100%  bovine leather",
+      " Lining: 60%  polyurethane,30%  cotton,10%  polyester",
+      " Insole: 100%  polyurethane",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "Sand",
+    "NAME": "Suede sport shoes"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67094381_92_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67094381-COQUE-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/sweatshirts-without-hood/bicolor-sweatshirt_67094381.html?c=92&n=1&s=nuevatemporada_he.familia;612",
+    "DESCRIPTION": [
+      "",
+      "Two-tone, fabric with cotton, speckled jacquard, rounded neck, long sleeve, elastic finish, cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 62%  polyester,34%  cotton,4%  viscose",
+      " Front: 60%  cotton,34%  polyester,6%  viscose"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "Grey",
+    "NAME": "Bicolor sweatshirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67033255_30_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67033255-SERRA-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shoes-casual-shoes/lace-up-suede-sneakers_67033255.html?c=30&n=1&s=nuevatemporada_he.accesorio;140",
+    "DESCRIPTION": [
+      " 100% Suede",
+      "Rounded toe",
+      "Rubber sole",
+      "Laces"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 95%  bovine leather,5%  polyurethane",
+      " Lining: 65%  polyester,35%  cotton",
+      " Insole: 100%  polyurethane",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "Brown",
+    "NAME": "Lace-up suede sneakers"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67014391_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67014391-ROUTE2-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shirts-printed/slim-fit-printed-cotton-shirt_67014391.html?c=56&n=1&s=nuevatemporada_he.familia;120",
+    "DESCRIPTION": [
+      " Casual line",
+      "Slim fit",
+      "Cotton fabric",
+      "Motorcycle print ",
+      "Classic collar",
+      "Long sleeve",
+      "Rounded cuff with two button fastening",
+      "Botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Slim fit printed cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67070581_52_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67070581-SERRA-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shoes-casual-shoes/pebbled-leather-sneakers_67070581.html?c=52&n=1&s=nuevatemporada_he.accesorio;140",
+    "DESCRIPTION": [
+      " Very smooth leather",
+      "Rounded toe",
+      "Decorative strap",
+      "Contrasting rubber sole",
+      "Laces"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 95%  bovine leather,5%  polyurethane",
+      " Lining: 65%  polyester,35%  cotton",
+      " Insole: 100%  polyurethane",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "Blue",
+    "NAME": "Pebbled leather sneakers"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67034389_37_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67034389-ROUTE-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shirts-printed/slim-fit-printed-cotton-shirt_67034389.html?c=37&n=1&s=nuevatemporada_he.familia;120",
+    "DESCRIPTION": [
+      " Casual line",
+      "Slim fit",
+      "Cotton fabric",
+      "Aircraft print",
+      "Classic collar",
+      "Long sleeve",
+      "Rounded cuff with two button fastening",
+      "Botton up"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "New Collection"
+    ],
+    "COLOUR": "Khaki",
+    "NAME": "Slim fit printed cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53053705_TC_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53053705-JASPE-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shirts-plain/slim-fit-structured-real-indigo-shirt_53053705.html?c=TC&n=1&s=Rebajas_he.familia;120",
+    "DESCRIPTION": [
+      " Casual line",
+      "Real indigo",
+      "Slim fit",
+      "Cotton fabric",
+      "Structured fabric",
+      "Mao neckline",
+      "Patch pocket on the chest",
+      "Long sleeve",
+      "Rounded cuff with two button fastening",
+      "Botton up",
+      "This garment has been made with indigo dye, a plant-based dye and artisan production. Any possible loss of colour should be understood as an inherent characteristic of this type of dye",
+      "Back length 75.0 cm"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "Sale",
+      "Shirts"
+    ],
+    "COLOUR": "Light Blue",
+    "NAME": "Slim fit structured real indigo shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53073034_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53073034-MARCO-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/sweaters-and-cardigans-cardigans/cotton-linen-knit-blazer_53073034.html?c=56&n=1&s=Rebajas_he.familia;110",
+    "DESCRIPTION": [
+      " Smart collection",
+      "Blazer style",
+      "Cotton and wool mix",
+      "Knitted fabric",
+      "Lapel with notch",
+      "Chest pocket",
+      "Two patch pockets on the front",
+      "Long sleeve",
+      "Botton up",
+      "Back length 69.5 cm",
+      "These measures have been calculated for a M size"
+    ],
+    "MATERIAL": [
+      "Composition: 43%  acrylic,24%  wool,19%  cotton,14%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "369",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "249",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "no washing",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning mechanical restric. perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "Sale",
+      "Sweaters and cardigans"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Cotton linen knit blazer"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53097684_02_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53097684-HOLY-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/sweaters-and-cardigans-sweaters/structured-turtleneck-sweater_53097684.html?c=02&n=1&s=Rebajas_he.familia;110",
+    "DESCRIPTION": [
+      " Smart collection",
+      "Cotton-blend fabric",
+      "Knitted fabric",
+      "Structured fabric",
+      "Turtleneck",
+      "Long sleeve",
+      "Back length 66.5 cm",
+      "These measures have been calculated for a M size"
+    ],
+    "MATERIAL": [
+      "Composition: 57%  acrylic,24%  cotton,17%  polyester,1%  elastane,1%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "299",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "Sale",
+      "Sweaters and cardigans"
+    ],
+    "COLOUR": "Off White",
+    "NAME": "Structured turtleneck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57037650_43_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 57037650-JUNGLE-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/sweaters-and-cardigans-sweaters/ombre-braided-sweater_57037650.html?c=43&n=1&s=Rebajas_he.familia;110",
+    "DESCRIPTION": [
+      " Casual line",
+      "Ombre design",
+      "Fabric with wool",
+      "Knitted braided fabric",
+      "Rounded neck",
+      "Long sleeve",
+      "Elastic finish",
+      "Cable knit finish",
+      "Back length 66.5 cm",
+      "These measures have been calculated for a M size"
+    ],
+    "MATERIAL": [
+      "Composition: 85%  acrylic,15%  wool"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [],
+    "COLOUR": "Green",
+    "NAME": "Ombr\u00e9 braided sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53050599_37_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53050599-IGUAZU-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shirts-plain/100-linen-regular-fit-shirt_53050599.html?c=37&n=1&s=Rebajas_he.familia;120",
+    "DESCRIPTION": [
+      " Casual line",
+      "100% linen ",
+      "Regular fit",
+      "Classic collar",
+      "Twin buttoned flap pockets at front",
+      "Long sleeve",
+      "Rounded cuff with one button fastening",
+      "Loops on the cuffs",
+      "Back length 74.0 cm",
+      "These measures have been calculated for a M size"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  linen"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "Sale",
+      "Shirts"
+    ],
+    "COLOUR": "Khaki",
+    "NAME": "100% linen regular fit shirt "
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53030500_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53030500-PAUL-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/t-shirts-polos/contrast-edge-cotton-polo-shirt_53030500.html?c=56&n=1&s=Rebajas_he.familia;115,116",
+    "DESCRIPTION": [
+      " Casual line",
+      "Cotton fabric",
+      "Polo neck",
+      "Short sleeve",
+      "Elastic finish",
+      "Contrasting stripe finish",
+      "Back length 70.0 cm",
+      "These measures have been calculated for a M size"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "Sale",
+      "T-shirts"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Contrast-edge cotton polo shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53025726_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53025726-LETONIA-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shirts-plain/slim-fit-corduroy-cotton-shirt_53025726.html?c=01&n=1&s=Rebajas_he.familia;120",
+    "DESCRIPTION": [
+      " Smart collection",
+      "Slim fit",
+      "Cotton fabric",
+      "Micro corduroy",
+      "Classic collar",
+      "Long sleeve",
+      "Rounded cuff with two button fastening",
+      "Botton up",
+      "Back length 75.0 cm"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "Sale",
+      "Shirts"
+    ],
+    "COLOUR": "White",
+    "NAME": "Slim fit corduroy cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53101014_85_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53101014-CUPCAKE1-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/more-accessories/cupcake-sunglasses_53101014.html?c=85&n=1&s=Rebajas_nina.accesorio;225,302,991",
+    "DESCRIPTION": [
+      " Acetate frame",
+      "100% UV protection factor category 3(max",
+      "for regular use)"
+    ],
+    "MATERIAL": [
+      "Frame: 95%  polycarbonate,5%  copper",
+      " Glass: 100%  polycarbonate"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "29.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Girls",
+      "Sale",
+      "More accessories"
+    ],
+    "COLOUR": "Pink",
+    "NAME": "Cupcake sunglasses"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67084391_85_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67084391-MAR-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/cardigans-and-sweaters/oversize-cotton-sweater_67084391.html?c=85&n=1&s=prendas_nina.familia;204",
+    "DESCRIPTION": [
+      " Oversize design",
+      "Open knit fabric",
+      "Rounded neck",
+      "Long sleeve",
+      "Dropped shoulder seams"
+    ],
+    "MATERIAL": [
+      "Composition: 74%  cotton,26%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Cardigans and sweaters"
+    ],
+    "COLOUR": "Pink",
+    "NAME": "Oversize cotton sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53050715_TO_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53050715-PAULA-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/dresses-casual/pocket-denim-pinafore-dress_53050715.html?c=TO&n=1&s=prendas_nina.familia;201",
+    "DESCRIPTION": [
+      " Straight design",
+      "Short design",
+      "Dark wash",
+      "Adjustable straps",
+      "Botton up",
+      "Pocket on the front",
+      "Two patch pockets on the front",
+      "This garment is also available in Baby Girl\u00b4s collection",
+      "Within the BROTHERS & SISTERS collection you will find the same clothes in Kids and Baby"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Dresses"
+    ],
+    "COLOUR": "Dark Blue",
+    "NAME": "Pocket denim pinafore dress"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53023774_85_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53023774-DEEP-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/sweatshirts/tie-dye-sweatshirt_53023774.html?c=85&n=1&s=prendas_nina.familia;300",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Tie-dye print",
+      "Rounded neck",
+      "Long sleeve with elastic cuffs",
+      "Elastic finish",
+      "Back length 50.5 cm",
+      "These measures have been calculated for a 8 size"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Sweatshirts"
+    ],
+    "COLOUR": "Pink",
+    "NAME": "Tie-dye sweatshirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53033713_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53033713-MIRI-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/trousers/high-waist-shorts_53033713.html?c=99&n=1&s=prendas_nina.familia;208,301",
+    "DESCRIPTION": [
+      " Short design",
+      "High waist",
+      "Darts on the front",
+      "Elastic waist",
+      "This garment is also available in Baby Girl\u00b4s collection",
+      "Within the BROTHERS & SISTERS collection you will find the same clothes in Kids and Baby"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester",
+      " Coating: 100%  polyurethane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Trousers"
+    ],
+    "COLOUR": "Black",
+    "NAME": "High-waist shorts"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67092905_15_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67092905-MONI6-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/jumpsuits/corduroy-long-jumpsuit_67092905.html?c=15&n=1&s=prendas_nina.familia;205",
+    "DESCRIPTION": [
+      " Cotton-blend fabric",
+      "Corduroy fabric",
+      "Long design",
+      "Straight fit",
+      "Straps",
+      "Two side patch pockets",
+      "Side button fastening"
+    ],
+    "MATERIAL": [
+      "Composition: 67%  cotton,30%  polyester,3%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Jumpsuits"
+    ],
+    "COLOUR": "Mustard",
+    "NAME": "Corduroy long jumpsuit"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67115904_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67115904-LEOLUREK-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/underwear-and-pyjamas-underwear/lurex-ribbed-tights_67115904.html?c=56&n=1&s=prendas_nina.familia;214",
+    "DESCRIPTION": [
+      " Rib knit fabric",
+      "Lurex fabric",
+      "Long design",
+      "High waist",
+      "Elastic waist"
+    ],
+    "MATERIAL": [
+      "Composition: 53%  polyester,22%  cotton,18%  viscose,3%  wool,3%  elastane,1%  metal fiber"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Underwear and pyjamas"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Lurex ribbed tights"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53075010_08_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53075010-BOGARTY5-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/coats-trench-coats/double-breasted-trench_53075010.html?c=08&n=1&s=Rebajas_violeta.familia;402",
+    "DESCRIPTION": [
+      " Long design",
+      "Cotton-blend fabric",
+      "Lapel-collar",
+      "Lapel with notch",
+      "Long sleeve with loops",
+      "Two side pockets",
+      "Back-slit hem",
+      "Adjustable belt",
+      "Double button fastening",
+      "Side length 76.2 cm",
+      "Back length 101.6 cm",
+      "These measures have been calculated for a M size"
+    ],
+    "MATERIAL": [
+      "Composition: 97%  cotton,3%  elastane",
+      " Lining: 100%  polyester",
+      " Sleeve lining: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "299",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "239",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "no washing",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Sale",
+      "Coats"
+    ],
+    "COLOUR": "Beige",
+    "NAME": "Double breasted trench"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/51063738_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 51063738-BOAT-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/jackets-blazers/slim-fit-suit-blazer_51063738.html?c=56&n=1&s=Rebajas_violeta.familia;621",
+    "DESCRIPTION": [
+      " Long design",
+      "Slim fit",
+      "Lapel-collar",
+      "Lapel with notch",
+      "Long sleeve",
+      "Two side welt pockets",
+      "One button fastening",
+      "Slit detail on the back",
+      "Back length 71.9 cm"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester",
+      " Lining: 55%  polyester,45%  viscose",
+      " Sleeve lining: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "299",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "239",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Sale",
+      "Suits"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Slim fit suit blazer"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/51063738_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 51063738-BOAT-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/jackets-blazers/slim-fit-suit-blazer_51063738.html?c=56&n=1&s=Rebajas_violeta.familia;404",
+    "DESCRIPTION": [
+      " Long design",
+      "Slim fit",
+      "Lapel-collar",
+      "Lapel with notch",
+      "Long sleeve",
+      "Two side welt pockets",
+      "One button fastening",
+      "Slit detail on the back",
+      "Back length 71.9 cm"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester",
+      " Lining: 55%  polyester,45%  viscose",
+      " Sleeve lining: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "299",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "239",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Sale",
+      "Jackets"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Slim fit suit blazer"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67012891_32.jpg",
+    "PRODUCT_REFERENCE": "REF. 67012891-EMMA-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/sunglasses/tortoiseshell-rounded-sunglasses_67012891.html?c=32&n=1&s=accesorios_she.accesorio;50,777",
+    "DESCRIPTION": [
+      " Round frames",
+      "Tortoiseshell"
+    ],
+    "MATERIAL": [
+      "Frame: 98%  polycarbonate,2%  copper",
+      " Glass: 100%  polycarbonate"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Women",
+      "Accessories",
+      "Sunglasses"
+    ],
+    "COLOUR": "Chocolate",
+    "NAME": "Tortoiseshell rounded sunglasses"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67010530_79_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67010530-HARRY-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/scarves-and-neckscarves/textured-check-scarf_67010530.html?c=79&n=1&s=accesorios_she.accesorio;52,452",
+    "DESCRIPTION": [
+      " Textured fabric",
+      "Checkered print",
+      "Frayed hem",
+      "200.0x70.0cm (LengthxWidth)"
+    ],
+    "MATERIAL": [
+      "Composition: 87%  polyester,8%  viscose,5%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Accessories",
+      "Scarves and neckscarves"
+    ],
+    "COLOUR": "Russet",
+    "NAME": "Textured check scarf"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53070773_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53070773-PLANITA5-N-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/shirts-shirts/chest-pocket-cotton-shirt_53070773.html?c=01&n=1&s=prendas_she.familia;14",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Classic collar",
+      "Long buttoned sleeve",
+      "Two buttoned patch pockets on the chest",
+      "Button fastening on the front section",
+      "Back length 61.5 cm",
+      "These measures have been calculated for a S size"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Edging: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Clothing",
+      "Shirts"
+    ],
+    "COLOUR": "White",
+    "NAME": "Chest-pocket cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57006307_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 57006307-PETITE-H-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/t-shirts-and-tops-short-sleeve/essential-cotton-blend-t-shirt_57006307.html?c=99&n=1&s=prendas_she.familia;18,318,320,46",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Rounded neck",
+      "Short sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "49.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "29.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Clothing",
+      "T-shirts and tops"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Essential cotton-blend t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53060663_08_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53060663-ONDA-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/belts/rounded-buckle-belt_53060663.html?c=08&n=1&s=accesorios_she.accesorio;44,444",
+    "DESCRIPTION": [
+      " Faux-leather",
+      "Buckle",
+      "90.0x3.0cm (LengthxWidth)"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyurethane",
+      " Lining: 100%  polyurethane",
+      " Buckle: 100%  zinc"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "no washing",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Accessories",
+      "Belts"
+    ],
+    "COLOUR": "Beige",
+    "NAME": "Rounded buckle belt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67004756_51_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67004756-SCULPT-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/jeans/cropped-skinny-jeans_67004756.html?c=51&n=1&s=prendas_she.familia;28",
+    "DESCRIPTION": [
+      "",
+      "Cropped design, skinny fit, medium waist, sustainable cotton fabric, two side pockets, coin pocket, two patch pockets on the back, loops, zip and one button fastening"
+    ],
+    "MATERIAL": [
+      "Composition: 70%  cotton,26%  polyester,3%  viscose,1%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Clothing",
+      "Jeans"
+    ],
+    "COLOUR": "China Blue",
+    "NAME": "Cropped Skinny jeans"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53030872_05_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53030872-ARO-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/belts/braided-bamboo-belt_53030872.html?c=05&n=1&s=accesorios_she.accesorio;44,444",
+    "DESCRIPTION": [
+      " Braided design",
+      "Buckle",
+      "Bamboo buckle",
+      "100.0x4.0cm (LengthxWidth)"
+    ],
+    "MATERIAL": [
+      "Composition: 40%  cotton,40%  linen,20%  polyester",
+      " Lining: 100%  polyurethane",
+      " Buckle: 100%  bamboo"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "no washing",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size"
+    ],
+    "COLOUR": "Ecru",
+    "NAME": "Braided bamboo belt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53085775_77_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53085775-COWBOY-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/belts/snake-effect-belt_53085775.html?c=77&n=1&s=accesorios_she.accesorio;44,444",
+    "DESCRIPTION": [
+      " Snakeskin effect",
+      "Decorative buckle",
+      "Metallic buckle",
+      "Metallic trims on the edges",
+      "100.0x1.0x3.0cm (LengthxHeightxWidth)"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyurethane",
+      " Lining: 100%  polyurethane",
+      " Buckle: 100%  zinc"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "79.90",
       "CURRENCY": "RM"
     },
     "SALES_PRICE": {
@@ -29,42 +4171,787 @@
       "do not tumble dry"
     ],
     "CATEGORY": [
-      "Men",
-      "Accessories",
-      "Wallets"
+      "Plus size"
     ],
-    "COLOUR": "Brown",
-    "NAME": "Saffiano-effect cardholder"
+    "COLOUR": "Wine",
+    "NAME": "Snake-effect belt"
   },
   {
-    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53073022_56_B.jpg",
-    "PRODUCT_REFERENCE": "REF. 53073022-VEGAS-LH ",
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67032904_02_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67032904-LOGO-I-LM ",
     "BRAND": "Mango",
-    "URL": "https://shop.mango.com/my/men/trousers-formal/super-slim-fit-suit-pants_53073022.html?c=56&n=1&s=prendas_he.familia;131,132",
+    "URL": "https://shop.mango.com/my/women/trousers-skinny/coated-skinny-fit-trousers_67032904.html?c=02&n=1&s=prendas_she.familia;26,326,22,322",
     "DESCRIPTION": [
-      " Tailored line",
-      "Super slim fit",
-      "Flowy fabric",
-      "Two side pockets",
-      "Coin pocket",
-      "Welt pocket on the back",
-      "Loops",
-      "Concealed button, hook and zip fastening",
-      "The tightest fit you\u2019ll find in our Suit Guide. Designed for events and ceremonies this suit is made with a tight silhouette with its satin tuxedo lapel and a fitting cut from shoulders to lower back, it feels like a second skin.Our Super Slim Fit is tailored in four different colours to dress each of your daily moments. Choose the style that best suits your personality. For night-time, go for a more refined look with a black suit, ideal for special events and celebrations",
-      "Inside leg measurement 80.3 cm",
-      "Side length 105.0 cm",
-      "These measures have been calculated for a 42 size"
+      " Online Exclusive",
+      "Soft finish",
+      "Waxed",
+      "Super skinny fit",
+      "Decorative seams",
+      "Elastic waist",
+      "Zipped hem"
     ],
     "MATERIAL": [
-      "Composition: 77%  polyester,20%  viscose,3%  elastane",
-      " Pockets lining: 50%  polyester,50%  cotton"
+      "Composition: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 40\u00b0c / 105\u00baf short spin dry",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Clothing",
+      "Trousers"
+    ],
+    "COLOUR": "Off White",
+    "NAME": "Coated skinny-fit trousers"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67033255_30_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67033255-SERRA-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shoes-casual-shoes/lace-up-suede-sneakers_67033255.html?c=30&n=1&s=accesorios_he.accesorio;140",
+    "DESCRIPTION": [
+      " 100% Suede",
+      "Rounded toe",
+      "Rubber sole",
+      "Laces"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 95%  bovine leather,5%  polyurethane",
+      " Lining: 65%  polyester,35%  cotton",
+      " Insole: 100%  polyurethane",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
     ],
     "ORIGINAL_PRICE": {
       "PRICE": "229",
       "CURRENCY": "RM"
     },
     "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men",
+      "Accessories",
+      "Shoes"
+    ],
+    "COLOUR": "Brown",
+    "NAME": "Lace-up suede sneakers"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53097684_02_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53097684-HOLY-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/sweaters-and-cardigans-sweaters/structured-turtleneck-sweater_53097684.html?c=02&n=1&s=prendas_he.familia;110",
+    "DESCRIPTION": [
+      " Smart collection",
+      "Cotton-blend fabric",
+      "Knitted fabric",
+      "Structured fabric",
+      "Turtleneck",
+      "Long sleeve",
+      "Back length 66.5 cm",
+      "These measures have been calculated for a M size"
+    ],
+    "MATERIAL": [
+      "Composition: 57%  acrylic,24%  cotton,17%  polyester,1%  elastane,1%  polyamide"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "299",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "199",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "Clothing",
+      "Sweaters and cardigans"
+    ],
+    "COLOUR": "Off White",
+    "NAME": "Structured turtleneck sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67070581_52_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67070581-SERRA-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shoes-casual-shoes/pebbled-leather-sneakers_67070581.html?c=52&n=1&s=accesorios_he.accesorio;140",
+    "DESCRIPTION": [
+      " Very smooth leather",
+      "Rounded toe",
+      "Decorative strap",
+      "Contrasting rubber sole",
+      "Laces"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 95%  bovine leather,5%  polyurethane",
+      " Lining: 65%  polyester,35%  cotton",
+      " Insole: 100%  polyurethane",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men",
+      "Accessories",
+      "Shoes"
+    ],
+    "COLOUR": "Blue",
+    "NAME": "Pebbled leather sneakers"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67023633_07_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67023633-NEWPUXET-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/shoes-casual-shoes/suede-sport-shoes_67023633.html?c=07&n=1&s=accesorios_he.accesorio;140",
+    "DESCRIPTION": [
+      " Suede",
+      "Rounded toe",
+      "Decorative strap",
+      "Rubber sole",
+      "Leather laces"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 100%  bovine leather",
+      " Lining: 60%  polyurethane,30%  cotton,10%  polyester",
+      " Insole: 100%  polyurethane",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "229",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Men",
+      "Accessories",
+      "Shoes"
+    ],
+    "COLOUR": "Sand",
+    "NAME": "Suede sport shoes"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67094381_92_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67094381-COQUE-LH ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/men/sweatshirts-without-hood/bicolor-sweatshirt_67094381.html?c=92&n=1&s=prendas_he.familia;612",
+    "DESCRIPTION": [
+      "",
+      "Two-tone, fabric with cotton, speckled jacquard, rounded neck, long sleeve, elastic finish, cable knit finish"
+    ],
+    "MATERIAL": [
+      "Composition: 62%  polyester,34%  cotton,4%  viscose",
+      " Front: 60%  cotton,34%  polyester,6%  viscose"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "169",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Men",
+      "Clothing",
+      "Sweatshirts"
+    ],
+    "COLOUR": "Grey",
+    "NAME": "Bicolor sweatshirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53101014_85_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53101014-CUPCAKE1-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/more-accessories/cupcake-sunglasses_53101014.html?c=85&n=1&s=accesorios_nina.accesorio;225,302,991",
+    "DESCRIPTION": [
+      " Acetate frame",
+      "100% UV protection factor category 3(max",
+      "for regular use)"
+    ],
+    "MATERIAL": [
+      "Frame: 95%  polycarbonate,5%  copper",
+      " Glass: 100%  polycarbonate"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "29.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Girls",
+      "Accessories",
+      "More accessories"
+    ],
+    "COLOUR": "Pink",
+    "NAME": "Cupcake sunglasses"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67084391_85_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67084391-MAR-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/cardigans-and-sweaters/oversize-cotton-sweater_67084391.html?c=85&n=1&s=prendas_nina.familia;204",
+    "DESCRIPTION": [
+      " Oversize design",
+      "Open knit fabric",
+      "Rounded neck",
+      "Long sleeve",
+      "Dropped shoulder seams"
+    ],
+    "MATERIAL": [
+      "Composition: 74%  cotton,26%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Cardigans and sweaters"
+    ],
+    "COLOUR": "Pink",
+    "NAME": "Oversize cotton sweater"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53050715_TO_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53050715-PAULA-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/dresses-casual/pocket-denim-pinafore-dress_53050715.html?c=TO&n=1&s=prendas_nina.familia;201",
+    "DESCRIPTION": [
+      " Straight design",
+      "Short design",
+      "Dark wash",
+      "Adjustable straps",
+      "Botton up",
+      "Pocket on the front",
+      "Two patch pockets on the front",
+      "This garment is also available in Baby Girl\u00b4s collection",
+      "Within the BROTHERS & SISTERS collection you will find the same clothes in Kids and Baby"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "99.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Dresses"
+    ],
+    "COLOUR": "Dark Blue",
+    "NAME": "Pocket denim pinafore dress"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53023774_85_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53023774-DEEP-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/sweatshirts/tie-dye-sweatshirt_53023774.html?c=85&n=1&s=prendas_nina.familia;300",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Tie-dye print",
+      "Rounded neck",
+      "Long sleeve with elastic cuffs",
+      "Elastic finish",
+      "Back length 50.5 cm",
+      "These measures have been calculated for a 8 size"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Sweatshirts"
+    ],
+    "COLOUR": "Pink",
+    "NAME": "Tie-dye sweatshirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53033713_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53033713-MIRI-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/trousers/high-waist-shorts_53033713.html?c=99&n=1&s=prendas_nina.familia;208,301",
+    "DESCRIPTION": [
+      " Short design",
+      "High waist",
+      "Darts on the front",
+      "Elastic waist",
+      "This garment is also available in Baby Girl\u00b4s collection",
+      "Within the BROTHERS & SISTERS collection you will find the same clothes in Kids and Baby"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester",
+      " Coating: 100%  polyurethane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Trousers"
+    ],
+    "COLOUR": "Black",
+    "NAME": "High-waist shorts"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67092905_15_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67092905-MONI6-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/jumpsuits/corduroy-long-jumpsuit_67092905.html?c=15&n=1&s=prendas_nina.familia;205",
+    "DESCRIPTION": [
+      " Cotton-blend fabric",
+      "Corduroy fabric",
+      "Long design",
+      "Straight fit",
+      "Straps",
+      "Two side patch pockets",
+      "Side button fastening"
+    ],
+    "MATERIAL": [
+      "Composition: 67%  cotton,30%  polyester,3%  elastane"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "129",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Girls",
+      "Clothing",
+      "Jumpsuits"
+    ],
+    "COLOUR": "Mustard",
+    "NAME": "Corduroy long jumpsuit"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67062511_88_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67062511-MAGIA-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/jewellery-jewellery/mixed-pendant-necklace_67062511.html?c=88&n=1&s=accesorios_nina.accesorio;224",
+    "DESCRIPTION": [
+      " Fine metal chain",
+      "Combined pendants",
+      "Hook fastening"
+    ],
+    "MATERIAL": [
+      "Composition: 50%  brass,35%  plastic,5%  elastic band,5%  zinc,5%  stainless steel"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "35.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "35.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Girls",
+      "Accessories",
+      "Jewellery"
+    ],
+    "COLOUR": "Fuchsia",
+    "NAME": "Mixed pendant necklace"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67022515_88_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67022515-MARTI-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/jewellery-jewellery/rainbow-pendant-necklace_67022515.html?c=88&n=1&s=accesorios_nina.accesorio;224",
+    "DESCRIPTION": [
+      " Rainbow pendant necklace",
+      "Decorative tassel",
+      "Fine metal chain",
+      "Adjustable cord"
+    ],
+    "MATERIAL": [
+      "Composition: 60%  polyester,25%  zinc,15%  stainless steel"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "35.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "35.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Girls",
+      "Accessories",
+      "Jewellery"
+    ],
+    "COLOUR": "Fuchsia",
+    "NAME": "Rainbow pendant necklace"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67115904_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67115904-LEOLUREK-LA ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/underwear-and-pyjamas-underwear/lurex-ribbed-tights_67115904.html?c=56&n=1&s=prendas_nina.familia;214",
+    "DESCRIPTION": [
+      " Rib knit fabric",
+      "Lurex fabric",
+      "Long design",
+      "High waist",
+      "Elastic waist"
+    ],
+    "MATERIAL": [
+      "Composition: 53%  polyester,22%  cotton,18%  viscose,3%  wool,3%  elastane,1%  metal fiber"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [],
+    "COLOUR": "Dark Navy",
+    "NAME": "Lurex ribbed tights"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67094388_85_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67094388-ROSE-LE ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/girls/shoes/velcro-fastening-straps-sneakers_67094388.html?c=85&n=1&s=prendas_babyNina.familia;543,997",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Rounded toe",
+      "Contrasting tip",
+      "Contrasting rubber sole",
+      "Velcro fastening",
+      "Strap fastening"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 100%  cotton",
+      " Lining: 100%  cotton",
+      " Insole: 100%  cotton",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
       "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Girls",
+      "FROM 9 MONTHS TO 4 YEARS",
+      "Shoes"
+    ],
+    "COLOUR": "Pink",
+    "NAME": "Velcro fastening straps sneakers"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67043257_37_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67043257-WOORI-LD ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/boys/shoes/crocodile-boots_67043257.html?c=37&n=1&s=prendas_babyNino.familia;571,997",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Embroidered details",
+      "Textured design",
+      "Rounded toe",
+      "Laces",
+      "Zip fastening"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 100%  cotton",
+      " Lining: 100%  cotton",
+      " Insole: 100%  cotton",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Boys",
+      "FROM 9 MONTHS TO 4 YEARS",
+      "Shoes"
+    ],
+    "COLOUR": "Khaki",
+    "NAME": "Crocodile boots"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67054389_37_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67054389-PANDA-LD ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/boys/shoes/panda-velcro-fastening-sneakers_67054389.html?c=37&n=1&s=prendas_babyNino.familia;571,997",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Rounded toe",
+      "Printed design",
+      "Velcro fastening",
+      "Contrasting rubber sole"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 100%  cotton",
+      " Lining: 100%  cotton",
+      " Insole: 100%  cotton",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "149",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Boys",
+      "FROM 9 MONTHS TO 4 YEARS",
+      "Shoes"
+    ],
+    "COLOUR": "Khaki",
+    "NAME": "Panda velcro fastening sneakers"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/51063738_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 51063738-BOAT-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/jackets-blazers/slim-fit-suit-blazer_51063738.html?c=56&n=1&s=prendas_violeta.familia;404",
+    "DESCRIPTION": [
+      " Long design",
+      "Slim fit",
+      "Lapel-collar",
+      "Lapel with notch",
+      "Long sleeve",
+      "Two side welt pockets",
+      "One button fastening",
+      "Slit detail on the back",
+      "Back length 71.9 cm"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester",
+      " Lining: 55%  polyester,45%  viscose",
+      " Sleeve lining: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "299",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "239",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Clothing",
+      "Jackets"
+    ],
+    "COLOUR": "Dark Navy",
+    "NAME": "Slim fit suit blazer"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67010093_05_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67010093-FEMME-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shoes-flat-shoes/animal-print-leather-shoes_67010093.html?c=05&n=1&s=accesorios_violeta.accesorio;442",
+    "DESCRIPTION": [
+      " Leather cut ",
+      "Animal print",
+      "Pointed",
+      "Side slits",
+      "1cm heel"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 100%  bovine leather with fur",
+      " Lining: 55%  polyurethane,45%  polyester",
+      " Insole: 85%  polyurethane,15%  bovine leather",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "269",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "269",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "no washing",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Accessories",
+      "Shoes"
+    ],
+    "COLOUR": "Ecru",
+    "NAME": "Animal print leather shoes"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53075010_08_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53075010-BOGARTY5-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/coats-trench-coats/double-breasted-trench_53075010.html?c=08&n=1&s=prendas_violeta.familia;402",
+    "DESCRIPTION": [
+      " Long design",
+      "Cotton-blend fabric",
+      "Lapel-collar",
+      "Lapel with notch",
+      "Long sleeve with loops",
+      "Two side pockets",
+      "Back-slit hem",
+      "Adjustable belt",
+      "Double button fastening",
+      "Side length 76.2 cm",
+      "Back length 101.6 cm",
+      "These measures have been calculated for a M size"
+    ],
+    "MATERIAL": [
+      "Composition: 97%  cotton,3%  elastane",
+      " Lining: 100%  polyester",
+      " Sleeve lining: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "299",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "239",
       "CURRENCY": "RM"
     },
     "WASHING_INSTRUCTION": [
@@ -75,11 +4962,291 @@
       "do not tumble dry"
     ],
     "CATEGORY": [
-      "Men",
+      "Plus size",
       "Clothing",
-      "Trousers"
+      "Coats"
+    ],
+    "COLOUR": "Beige",
+    "NAME": "Double breasted trench"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/51063738_56_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 51063738-BOAT-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/jackets-blazers/slim-fit-suit-blazer_51063738.html?c=56&n=1&s=prendas_violeta.familia;621",
+    "DESCRIPTION": [
+      " Long design",
+      "Slim fit",
+      "Lapel-collar",
+      "Lapel with notch",
+      "Long sleeve",
+      "Two side welt pockets",
+      "One button fastening",
+      "Slit detail on the back",
+      "Back length 71.9 cm"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyester",
+      " Lining: 55%  polyester,45%  viscose",
+      " Sleeve lining: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "299",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "239",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "hand washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Clothing",
+      "Suits"
     ],
     "COLOUR": "Dark Navy",
-    "NAME": "Super slim fit suit pants"
+    "NAME": "Slim fit suit blazer"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53075010_08_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53075010-BOGARTY5-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/coats-trench-coats/double-breasted-trench_53075010.html?c=08&n=1&s=prendas_violeta.familia;402.coats402;Trench",
+    "DESCRIPTION": [
+      " Long design",
+      "Cotton-blend fabric",
+      "Lapel-collar",
+      "Lapel with notch",
+      "Long sleeve with loops",
+      "Two side pockets",
+      "Back-slit hem",
+      "Adjustable belt",
+      "Double button fastening",
+      "Side length 76.2 cm",
+      "Back length 101.6 cm",
+      "These measures have been calculated for a M size"
+    ],
+    "MATERIAL": [
+      "Composition: 97%  cotton,3%  elastane",
+      " Lining: 100%  polyester",
+      " Sleeve lining: 100%  polyester"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "299",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "239",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "no washing",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "dry cleaning perchloroethylene",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Plus size",
+      "Clothing",
+      "Coats",
+      "Trench coats"
+    ],
+    "COLOUR": "Beige",
+    "NAME": "Double breasted trench"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67091002_57_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 67091002-CORA-I-LV ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/plus-size/shoes-boots-and-ankle-boots/leather-cowboy-ankle-boots_67091002.html?c=57&n=1&s=accesorios_violeta.accesorio;442",
+    "DESCRIPTION": [
+      " Online Exclusive",
+      "Leather",
+      "Pointed",
+      "Wide heel",
+      "Tall leg",
+      "Side zip fastening"
+    ],
+    "MATERIAL": [
+      "Shoeupper: 100%  bovine leather",
+      " Lining: 85%  cotton,15%  polyurethane resin",
+      " Insole: 100%  polyurethane resin",
+      " Sole: 100%  rubber",
+      " Fixing sole: 100%  glued"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "449",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "449",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [],
+    "CATEGORY": [
+      "Plus size",
+      "Accessories",
+      "Shoes"
+    ],
+    "COLOUR": "Night Blue",
+    "NAME": "Leather cowboy ankle boots"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57006307_99_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 57006307-PETITE-H-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/t-shirts-and-tops-short-sleeve/essential-cotton-blend-t-shirt_57006307.html?c=99&n=1&s=Rebajas_she.familia;18,318,320,46",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Rounded neck",
+      "Short sleeve"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "49.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "29.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Sale",
+      "T-shirts and tops"
+    ],
+    "COLOUR": "Black",
+    "NAME": "Essential cotton-blend t-shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53070773_01_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53070773-PLANITA5-N-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/shirts-shirts/chest-pocket-cotton-shirt_53070773.html?c=01&n=1&s=Rebajas_she.familia;14",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Classic collar",
+      "Long buttoned sleeve",
+      "Two buttoned patch pockets on the chest",
+      "Button fastening on the front section",
+      "Back length 61.5 cm",
+      "These measures have been calculated for a S size"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton",
+      " Edging: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "59.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf short spin dry",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Sale",
+      "Shirts"
+    ],
+    "COLOUR": "White",
+    "NAME": "Chest-pocket cotton shirt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53060663_08_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53060663-ONDA-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/belts/rounded-buckle-belt_53060663.html?c=08&n=1&s=Rebajas_she.accesorio;44,444",
+    "DESCRIPTION": [
+      " Faux-leather",
+      "Buckle",
+      "90.0x3.0cm (LengthxWidth)"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  polyurethane",
+      " Lining: 100%  polyurethane",
+      " Buckle: 100%  zinc"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "69.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "no washing",
+      "do not bleach",
+      "do not iron",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Sale",
+      "Belts"
+    ],
+    "COLOUR": "Beige",
+    "NAME": "Rounded buckle belt"
+  },
+  {
+    "IMAGE": "//st.mngbcn.com/rcs/pics/static/T5/fotos/S20/53070860_47_B.jpg",
+    "PRODUCT_REFERENCE": "REF. 53070860-GENIUS-LM ",
+    "BRAND": "Mango",
+    "URL": "https://shop.mango.com/my/women/cardigans-and-sweaters-sweaters/dolman-sleeve-sweater_53070860.html?c=47&n=1&s=Rebajas_she.familia;55,355,610,810",
+    "DESCRIPTION": [
+      " Cotton fabric",
+      "Thick knitted fabric",
+      "Long batwing sleeve",
+      "Rounded neck"
+    ],
+    "MATERIAL": [
+      "Composition: 100%  cotton"
+    ],
+    "ORIGINAL_PRICE": {
+      "PRICE": "119",
+      "CURRENCY": "RM"
+    },
+    "SALES_PRICE": {
+      "PRICE": "79.90",
+      "CURRENCY": "RM"
+    },
+    "WASHING_INSTRUCTION": [
+      "machine washing max 30\u00b0c / 85\u00baf",
+      "do not bleach",
+      "ironing max 110\u00b0c / 230\u00baf",
+      "do not dry clean",
+      "do not tumble dry"
+    ],
+    "CATEGORY": [
+      "Women",
+      "Sale",
+      "Cardigans and sweaters"
+    ],
+    "COLOUR": "Billiard Green",
+    "NAME": "Dolman-sleeve sweater"
   }
-]

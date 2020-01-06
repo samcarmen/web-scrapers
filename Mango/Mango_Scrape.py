@@ -15,7 +15,7 @@ def initialise_web_driver():
     options.add_argument("--incognito")
     options.add_argument("User-Agent:'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0'")
     options.add_argument("--window-size=1920x1080")
-    driver = webdriver.Chrome(options=options, executable_path=r"C:\Users\User\Downloads\chromedriver_win32\chromedriver.exe")
+    driver = webdriver.Chrome(options=options, executable_path=r"C:\Users\Carmen\Downloads\chromedriver_win32\chromedriver.exe")
 
     return driver
 
@@ -287,14 +287,32 @@ def write_to_file(output):
 if __name__ == "__main__":
     start = time.time()
 
-    main_urls = ["https://shop.mango.com/my/women/coats_c67886633",
+    main_urls = ["https://shop.mango.com/my/plus-size/essential-prices_d81191919",
+                 "https://shop.mango.com/my/women/sale_d26824251",
+                 "https://shop.mango.com/my/women/new-collection_d15794524",
+                 "https://shop.mango.com/my/girls/we-like-to-party_d81787270",
+                 "https://shop.mango.com/my/girls/best-sellers_d22987556",
+                 "https://shop.mango.com/my/women/leandra-x-mango_d60084927",
+                 "https://shop.mango.com/my/women/essential-prices_d93266323",
+                 "https://shop.mango.com/my/women/best-sellers_d12580714",
+                 "https://shop.mango.com/my/men/new-collection_d19853948",
+                 "https://shop.mango.com/my/men/leather-and-more_d99003324"
+                 "https://shop.mango.com/my/women/new-now_d71927648",
+                 "https://shop.mango.com/my/men/sale_d14922989",
+                 "https://shop.mango.com/my/girls/sale_d51229122",
+                 "https://shop.mango.com/my/boys/sale",
+                 "https://shop.mango.com/my/plus-size/sale_d15542249",
+                 "https://shop.mango.com/my/women/gift-guide_d17441703",
+                 "https://shop.mango.com/my/women/coats_c67886633",
                  "https://shop.mango.com/my/men/coats_c32859776",
                  "https://shop.mango.com/my/girls/coats_c10792813",
                  "https://shop.mango.com/my/baby-girls/coats_c17607080",
                  "https://shop.mango.com/my/baby-girls/coats_d19035082",
                  "https://shop.mango.com/my/boys/coats_c15872207",
                  "https://shop.mango.com/my/baby-boys/coats_c26307252",
-                 "https://shop.mango.com/my/plus-size/coats_c11960442"
+                 "https://shop.mango.com/my/plus-size/coats_c11960442",
+                 "https://shop.mango.com/my/women/sale_d26824251",
+
                  ]
 
     main_driver = initialise_web_driver()
@@ -303,6 +321,7 @@ if __name__ == "__main__":
         print("Processing: ", url)
         main_soup = make_soup(main_driver, url)
         all_category = get_all_url(main_soup)
+
         print("Total number of category: ", len(all_category))
 
         urls = scroll_category(all_category)
@@ -324,6 +343,7 @@ if __name__ == "__main__":
         print("before remove: ", len(urls))
         print("after remove: ", len(final_list))
 
+
         scrape_all(final_list)
 
     end = time.time()
@@ -333,6 +353,6 @@ if __name__ == "__main__":
     notification.notify(
         title='Meow~',
         message='Scraping All Done Master!',
-        app_icon=r'C:\Users\User\Downloads\cat.ico',
+        app_icon=r'C:\Users\Carmen\Downloads\cat.ico',
         timeout=10,  # seconds
     )
