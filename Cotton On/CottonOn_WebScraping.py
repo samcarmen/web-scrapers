@@ -183,6 +183,7 @@ def get_feature(url):
     except:
         return []
 
+
 def get_category(url):
     category = url.split('https://cottonon.com/MY/kids/kids-boys-1-8/boys-1-8-')
     return category[1].rstrip('/')
