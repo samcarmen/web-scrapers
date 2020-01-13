@@ -26,4 +26,20 @@ def check_colour_correctness():
         print(colour_url[i][3])
 
 
+def remove_home():
+    with open('Uniqlo_Data.json', 'r') as file:
+        data = json.load(file)
+
+    for i in range(len(data)):
+        category = data[i]['CATEGORY']
+        data[i]['CATEGORY'] = [each for each in category if each != 'Home']
+
+    pretty = json.dumps(data, indent=3)
+    with open('Uniqlo_Data.json', 'w') as file:
+        file.write(pretty)
+
+remove_home()
+
+
+
 

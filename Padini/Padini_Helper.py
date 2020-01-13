@@ -11,7 +11,7 @@ def write_to_file(output):
     pretty_output = json.dumps(parsed, indent=2)
     # print(pretty_output)
 
-    f = open("Padini_Data_Temp.json", "w")
+    f = open("Padini_Data.json", "w")
     f.write(pretty_output)
     f.close()
 
@@ -42,19 +42,31 @@ def find_null():
 
 
 def change_details():
-    with open('Padini_Data_Temp.json', 'r') as file:
+    with open('Padini_Data.json', 'r') as file:
         data = json.load(file)
 
     for i in range(len(data)):
-        try:
-            details = data[i]['DETAILS']
-            each = [each.split(':') for each in details]
-            new = {indi[0]: eval(indi[1]) for indi in each}
-            data[i]['DETAILS'] = new
-        except:
-            continue
+        data[i]['DETAILS'] = [each.replace(', <br/>', '') for each in data[i]['DETAILS']]
 
-    write_to_file(data)
+    for i in range(len(data)):
+        # try:
+        details = data[i]['DETAILS']
+        each = [each.split(':') for each in details]
+        new = {indi[0]: eval(indi[1]) for indi in each}
+        data[i]['DETAILS'] = new
+        # except:
+        #     continue
+
+    for i in range(len(data)):
+        category = data[i]['CATEGORY']
+        data[i]['CATEGORY'] = [each for each in category if each != 'Home']
+
+
+    pretty = json.dumps(data, indent=3)
+    print(pretty)
+
+    with open('Padini_Data.json', 'w') as outfile:
+        outfile.write(pretty)
 
 
 def remove_duplicate():
@@ -64,17 +76,29 @@ def remove_duplicate():
     not_unique = [each for each in data]
     unique = {each['IMAGE']: each for each in data}.values()
     unique = [each for each in unique]
-    print("Before", len(unique))
-    for not_uni in not_unique:
-        for i in range(len(unique)):
-            if not_uni['IMAGE'] == unique[i]['IMAGE'] and len(not_uni['CATEGORY']) > len(unique[i]['CATEGORY']):
-                unique[i] = not_uni
-            else:
-                continue
-    print(len(data))
-    print("After", len(unique))
 
-    write_to_file(unique)
+    print("Before", len(unique))
+    # for not_uni in not_unique:
+    #     for i in range(len(unique)):
+    #         if not_uni['IMAGE'] == unique[i]['IMAGE'] and len(not_uni['CATEGORY']) > len(unique[i]['CATEGORY']):
+    #             unique[i] = not_uni
+    #         else:
+    #             continue
+    # print(len(data))
+    # print("After", len(unique))
+
+    # write_to_file(unique)
+# remove_duplicate()
+
+# with open('Padini_Data.json','r') as file:
+#     data = json.load(file)
+# data = [elem for elem in data]
+# new_data = [ele for ele in reversed(data)]
+# write_to_file(new_data)
+
+remove_duplicate()
+
+
 
 
 
