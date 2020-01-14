@@ -56,6 +56,7 @@ def scroll_category(url_list):
         print("Processing url", i + 1)
         url = url_list[i]
         driver.get(url)  # open a new page
+        driver.maximize_window()
         time.sleep(2)
 
         # Get scroll height

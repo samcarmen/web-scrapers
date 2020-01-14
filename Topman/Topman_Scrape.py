@@ -14,24 +14,18 @@ def initialise_web_driver():
     # options.add_argument("--headless")
     options.add_argument('--ignore-certificate-errors')
     options.add_argument("--incognito")
-    options.add_argument("User-Agent:'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, "
-                         "like Gecko) Chrome/79.0.3945.117 Safari/537.36'")
+    options.add_argument("User-Agent:'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36'")
     driver = webdriver.Chrome(options=options, executable_path=r"C:\Users\User\Downloads\chromedriver\chromedriver.exe")
 
     return driver
 
 
 def make_soup(url):
-    try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
-                          'Chrome/79.0.3945.117 Safari/537.36'}
-        page = requests.get(url, headers=headers)
-        soup = BeautifulSoup(page.content, 'lxml')
-        return soup
-    except (AttributeError, IndexError, TypeError):
-        print("Error making soup")
-        return None
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36'}
+    page = requests.get(url, headers=headers)
+    soup = BeautifulSoup(page.content, 'lxml')
+    return soup
 
 
 def get_name(soup):
@@ -116,19 +110,14 @@ def get_main_cats(url):
         each_cat = [([ele.text], "https://www.topshop.com" + ele.get('href')) for ele in each]
         url_list.append(each_cat[:-1])
 
-    priority_list = [url_list[2], url_list[3], url_list[4], url_list[5], url_list[1], url_list[6], url_list[0],
-                     url_list[7]]
+    priority_list = [url_list[2], url_list[3], url_list[4], url_list[1], url_list[5], url_list[0],
+                     url_list[6]]
 
     for each_list in priority_list:
         each_list = each_list[::-1]  # Reverse the list
-        done_url = []
+
         for each_cat in each_list:
             current_url = each_cat[1]
-
-            if current_url in done_url:
-                continue
-            else:
-                done_url.append(current_url)
 
             if current_url == "https://www.topshop.com/en/tsuk/category/brands-4210405/dresses/N-7z2Zqn9Zdgl":
                 print("\nRemoved")
@@ -147,11 +136,9 @@ def get_main_cats(url):
                 total_links_available = int(re.findall(re.compile(r'\d+'), total_links_available)[0])
                 print("Total links available: ", total_links_available)
 
-                current_internal_list_length = []
-
                 while True:
                     driver.find_element_by_tag_name('body').send_keys(Keys.END)
-                    time.sleep(2)
+                    time.sleep(3)
                     page_source = driver.page_source
                     soup = BeautifulSoup(page_source, 'lxml')
 
@@ -163,10 +150,7 @@ def get_main_cats(url):
                             internal_visited.add(b)
                             internal_list.append((a, b))
 
-                    current_internal_list_length.append(len(internal_list))
                     print("Current length: ", len(internal_list))
-
-
 
                     if len(internal_list) >= total_links_available-1:
                         for a, b in internal_list:
@@ -178,15 +162,10 @@ def get_main_cats(url):
 
             except (AttributeError, IndexError, TypeError):
                 continue
-            break
-        break
 
-    print("Final final length: ", len(all_url), '\n')
-
-    with open("All_url.txt", 'w') as file:
-        for each in all_url:
-            file.write(str(each))
-            file.write('\n')
+    print("Final final length: ", len(all_url))
+    for each in all_url:
+        print(each)
     return all_url
 
 
@@ -204,8 +183,8 @@ def scrape(url_list):
         COLOUR, CODE = get_product_code_colour(soup)
         IMAGE = get_image(soup)
         CATEGORY = get_category(soup)
-        if small_cat[0] not in CATEGORY:
-            CATEGORY.append(small_cat[0])
+        if small_cat not in CATEGORY:
+            CATEGORY.append(small_cat)
 
         output = {
             "IMAGE": IMAGE,
@@ -233,7 +212,7 @@ def scrape(url_list):
 
     pretty_output = json.dumps(FINAL_OUTPUT, indent=3)
 
-    with open ('Topshop_Data.json', 'w') as outfile:
+    with open ('Topman_Data.json', 'w') as outfile:
         outfile.write(pretty_output)
 
 
@@ -241,11 +220,12 @@ if __name__ == '__main__':
     start = datetime.datetime.now()
     print("Start time: ", start)
 
-    all_urls = get_main_cats("https://www.topshop.com/")
+    all_urls = get_main_cats("https://www.topman.com/")
 
     done_all = datetime.datetime.now()
     time = done_all - start
-    print("\nTime taken for getting all urls: ", int(time.total_seconds() / 60), "minutes\n")
+    print("Time taken for getting all urls: ", int(time.total_seconds() / 60), "minutes")
+
     scrape(all_urls)
 
     end = datetime.datetime.now()
@@ -253,8 +233,3 @@ if __name__ == '__main__':
 
     total = end - start
     print("Total time taken: ", int(total.total_seconds() / 60), "minutes")
-
-"""
-14.1.2020
-18299 @ 14:15
-"""
