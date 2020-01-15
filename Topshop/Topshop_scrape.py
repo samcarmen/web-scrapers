@@ -4,6 +4,7 @@ import json
 import re
 import requests
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 import time
@@ -16,7 +17,7 @@ def initialise_web_driver():
     options.add_argument("--incognito")
     options.add_argument("User-Agent:'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, "
                          "like Gecko) Chrome/79.0.3945.117 Safari/537.36'")
-    driver = webdriver.Chrome(options=options, executable_path=r"C:\Users\User\Downloads\chromedriver\chromedriver.exe")
+    driver = webdriver.Chrome(options=options, executable_path=r"C:\Users\Carmen\Downloads\chromedriver\chromedriver.exe")
 
     return driver
 
@@ -114,18 +115,21 @@ def get_main_cats(url):
 
     for each in cats:
         each_cat = [([ele.text], "https://www.topshop.com" + ele.get('href')) for ele in each]
-        url_list.append(each_cat[:-1])
+        url_list.append(each_cat[:-1])  # Append all accept the last one as it is duplicate
 
     priority_list = [url_list[2], url_list[3], url_list[4], url_list[5], url_list[1], url_list[6], url_list[0],
                      url_list[7]]
 
     for each_list in priority_list:
         each_list = each_list[::-1]  # Reverse the list
+
         done_url = []
         for each_cat in each_list:
+            stuck = 0
             current_url = each_cat[1]
 
             if current_url in done_url:
+                print("\nUh-oh, repeated url!", current_url)
                 continue
             else:
                 done_url.append(current_url)
@@ -139,6 +143,13 @@ def get_main_cats(url):
             internal_list = []
 
             driver.get(current_url)
+            driver.maximize_window()
+            time.sleep(2)
+            try:
+                driver.find_element_by_xpath("//button[@aria-label='Display product list items in 3 Columns']").click()
+            except (ElementClickInterceptedException, NoSuchElementException):
+                pass
+
             page_source = driver.page_source
             soup = BeautifulSoup(page_source, 'lxml')
 
@@ -150,6 +161,7 @@ def get_main_cats(url):
                 current_internal_list_length = []
 
                 while True:
+                    initial_length = len(internal_list)
                     driver.find_element_by_tag_name('body').send_keys(Keys.END)
                     time.sleep(2)
                     page_source = driver.page_source
@@ -166,9 +178,12 @@ def get_main_cats(url):
                     current_internal_list_length.append(len(internal_list))
                     print("Current length: ", len(internal_list))
 
+                    if len(internal_list) == initial_length:
+                        stuck += 1
+                    else:
+                        stuck = 0
 
-
-                    if len(internal_list) >= total_links_available-1:
+                    if len(internal_list) >= total_links_available or stuck >= 15:
                         for a, b in internal_list:
                             if not b in visited:
                                 visited.add(b)
@@ -178,8 +193,6 @@ def get_main_cats(url):
 
             except (AttributeError, IndexError, TypeError):
                 continue
-            break
-        break
 
     print("Final final length: ", len(all_url), '\n')
 
@@ -194,58 +207,69 @@ def scrape(url_list):
     FINAL_OUTPUT = []
     i = 1
 
+
     for small_cat, url in url_list:
-        print("Currently scraping {}: {}".format(i, url))
+        try:
+            print("Currently scraping {}: {}".format(i, url))
 
-        soup = make_soup(url)
-        NAME = get_name(soup)
-        ORI_PRICE, SALES_PRICE = get_price(soup)
-        DETAILS, COMPOSITION, CARE = get_details(soup)
-        COLOUR, CODE = get_product_code_colour(soup)
-        IMAGE = get_image(soup)
-        CATEGORY = get_category(soup)
-        if small_cat[0] not in CATEGORY:
-            CATEGORY.append(small_cat[0])
+            soup = make_soup(url)
+            NAME = get_name(soup)
+            ORI_PRICE, SALES_PRICE = get_price(soup)
+            DETAILS, COMPOSITION, CARE = get_details(soup)
+            COLOUR, CODE = get_product_code_colour(soup)
+            IMAGE = get_image(soup)
+            CATEGORY = get_category(soup)
+            if small_cat[0] not in CATEGORY:
+                CATEGORY.append(small_cat[0])
 
-        output = {
-            "IMAGE": IMAGE,
-            "BRAND": "TOPSHOP",
-            "URL": url,
-            "PRODUCT_CODE": CODE,
-            "DETAILS": DETAILS,
-            "ORIGINAL_PRICE": {
-                "PRICE": ORI_PRICE,
-                "CURRENCY": "Pound sterling"
-            },
-            "SALES_PRICE": {
-                "PRICE": SALES_PRICE,
-                "CURRENCY": "Pound sterling"
-            },
-            "COMPOSITION": COMPOSITION,
-            "CARE_INSTRUCTION": CARE,
-            "COLOUR": COLOUR,
-            "CATEGORY": CATEGORY,
-            "NAME": NAME
-        }
+            output = {
+                "IMAGE": IMAGE,
+                "BRAND": "TOPSHOP",
+                "URL": url,
+                "PRODUCT_CODE": CODE,
+                "DETAILS": DETAILS,
+                "ORIGINAL_PRICE": {
+                    "PRICE": ORI_PRICE,
+                    "CURRENCY": "Pound sterling"
+                },
+                "SALES_PRICE": {
+                    "PRICE": SALES_PRICE,
+                    "CURRENCY": "Pound sterling"
+                },
+                "COMPOSITION": COMPOSITION,
+                "CARE_INSTRUCTION": CARE,
+                "COLOUR": COLOUR,
+                "CATEGORY": CATEGORY,
+                "NAME": NAME
+            }
 
-        i += 1
-        FINAL_OUTPUT.append(output)
+            i += 1
+            FINAL_OUTPUT.append(output)
 
-    pretty_output = json.dumps(FINAL_OUTPUT, indent=3)
+        except Exception as e:
+            print("e", url)
+            continue
 
-    with open ('Topshop_Data.json', 'w') as outfile:
-        outfile.write(pretty_output)
+        pretty_output = json.dumps(FINAL_OUTPUT, indent=3)
+
+        with open('Topshop_Data.json', 'w') as outfile:
+            outfile.write(pretty_output)
 
 
 if __name__ == '__main__':
     start = datetime.datetime.now()
     print("Start time: ", start)
 
-    all_urls = get_main_cats("https://www.topshop.com/")
+    # all_urls = get_main_cats("https://www.topshop.com/")
 
-    done_all = datetime.datetime.now()
-    time = done_all - start
-    print("\nTime taken for getting all urls: ", int(time.total_seconds() / 60), "minutes\n")
+    # done_all = datetime.datetime.now()
+    # time = done_all - start
+    # print("\nTime taken for getting all urls: ", int(time.total_seconds() / 60), "minutes\n")
+    all_urls = []
+    with open('All_url.txt', 'r') as file:
+        for line in file:
+            all_urls.append(eval(line.rstrip('\n')))
+
     scrape(all_urls)
 
     end = datetime.datetime.now()
@@ -257,4 +281,8 @@ if __name__ == '__main__':
 """
 14.1.2020
 18299 @ 14:15
+
+https://www.topshop.com/en/tsuk/category/clothing-427/tall-454
+scroll  https://www.topshop.com/en/tsuk/category/jeans-6877054 one more time only 79 got
+Add Hand wash only
 """
