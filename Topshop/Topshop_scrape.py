@@ -63,7 +63,7 @@ def get_details(soup):
         details = soup.find(class_="ProductDescription-content").text
         composition = re.findall(re.compile(r'\w*:*\s*\d+%\s*\w*'), details)
         composition = [each.strip(' ') for each in composition]
-        care = re.findall(re.compile(r'([Mm]achine [Ww]ash|[Ss]pecialist [Cc]lean [Oo]nly)'), details)
+        care = re.findall(re.compile(r'([Mm]achine [Ww]ash|[Ss]pecialist [Cc]lean [Oo]nly)|[Hh]and [Ww]ash [Oo]nly'), details)
         details = re.split('\\.\s*|,\s*', details)
         details[:] = [each for each in details if each != "" and each not in composition and each not in care]
         return details, composition, care
@@ -207,7 +207,6 @@ def scrape(url_list):
     FINAL_OUTPUT = []
     i = 1
 
-
     for small_cat, url in url_list:
         try:
             print("Currently scraping {}: {}".format(i, url))
@@ -247,7 +246,7 @@ def scrape(url_list):
             FINAL_OUTPUT.append(output)
 
         except Exception as e:
-            print("e", url)
+            print(e, url)
             continue
 
         pretty_output = json.dumps(FINAL_OUTPUT, indent=3)
